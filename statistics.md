@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Home
+title: Statistics
 nav_order: 3
 ---
 
 # Table of Contents
-1. [Undergraduate: Mathematics B](#example)
-2. [Example2](#example2)
+1. [Undergraduate: Mathematics B](##Undergraduate:-Mathematics-B)
+2. [Undergraduate: Physics](##-Undergraduate:-Physics)
 
 
 # MEXT Past Exams: Statistics
@@ -19,7 +19,7 @@ This data was collected from 2019 to 2025/2026.
 Questions labeled "logarithms" include roots, exponentials, and logarithms.
 
 
-## Undergraduate: Mathematics B (2019-2026)
+## Undergraduate: Mathematics B
 
 1. Calculus: 21.54%
 2. Analytical geometry: 13.85%
@@ -42,7 +42,7 @@ Questions labeled "logarithms" include roots, exponentials, and logarithms.
 \* Specifically, this refers to the mathematical properties of the number "2019", such as its prime factorization.
 
 
-## Undergraduate: Physics (2019-2026)
+## Undergraduate: Physics
 1. Mechanics: 29.90%
 2. Waves: 14.43%
 3. Thermodynamics: 13.40%
