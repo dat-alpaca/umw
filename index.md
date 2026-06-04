@@ -40,7 +40,7 @@ After figuring out whether your country offers a scholarship, you should decide 
 
 - **College of Technology [CoT]:** Allows the student to enter a Higher Technical School's 3rd year after a preparatory year.
 
-- **Research | Postgraduate [PG]:** A scholarship offered to students pursuing a master's or a doctoral degree.
+- **Research / Postgraduate [PG]:** A scholarship offered to students pursuing a master's or a doctoral degree.
 
 - **Culture and Japanese Language [CJL]:** A scholarship offered to students to enhance their knowledge of Japanese language, literature, and culture.
 
