@@ -5,14 +5,14 @@ nav_order: 1
 ---
 
 # Table of Contents
-0. [Welcome!](#welcome!)
-1. [What is MEXT?](#1.-what-is-mext?)
-2. [How do I apply?](#2.-how-do-i-apply?)
-3. [What Scholarships are Available?](###What-is-MEXT?)
-4. [Eligibility](###What-is-MEXT?)
-5. [Language Requirements](###What-is-MEXT?)
-6. [Field of Study and Course Major](###What-is-MEXT?)
-7. [Internal Procedures & Confidentiality](#test)
+0. [Welcome!](#welcome)
+1. [What is MEXT?](#1-what-is-mext)
+2. [How do I apply?](#2-how-do-i-apply)
+3. [What Scholarships are Available?](#3-what-scholarships-are-available)
+4. [Eligibility](#4-am-i-eligible)
+5. [Language Requirements](#5-language-requirements)
+6. [Field of Study and Course Major](#6-field-of-study-and-course-major)
+7. [Internal Procedures & Confidentiality](#7-internal-procedures--confidentiality)
 
 # Unofficial MEXT Worldwide
 ## Welcome!
