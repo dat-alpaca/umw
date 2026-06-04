@@ -5,12 +5,13 @@ nav_order: 4
 ---
 
 # Table of Contents
-1. [Undergraduate: Mathematics B](#undergraduate-mathematics-b)
-2. [Undergraduate: Physics](#undergraduate-physics)
+1. [Official Scholarhip Websites](#official-scholarhip-websites)
+2. [Embassy & Consulate Websites](#embassy-and-consulate-websites)
+2. [Unofficial Information](#unofficial-information)
 
 # Useful Links
 
-## Official Scholarhip Websites:  
+# Official Scholarhip Websites  
 - [Monbukagakusho Funded Programs](https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm): This website provides a list of the scholarships provided by the Japan's Education ministry.
 
     * [Japanese Government MEXT Scholarship](https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1330944.htm) †
@@ -25,12 +26,12 @@ nav_order: 4
 
 † This is the main government-funded scholarship.
 
-## Embassy & Consulate Websites:
+# Embassy and Consulate Websites
 > Refer to your embassy website for further information. Although the application process is similar across countries, several embassies and consulates have adopted local requirements that the applicants must follow.
 
 * [Websites of Japanese Embassies](https://www.mofa.go.jp/about/emb_cons/mofaserv.html)
 
-## Unnoficial Information:
+# Unofficial Information
 * [Japan | Past Exam Collection](https://drive.google.com/drive/folders/1ShzxNw-9eM9AdmDJYKly0FiZgKnj5BXJ?usp=sharing) †
 * [Exam scores and applicants statistics](https://docs.google.com/spreadsheets/d/10r7mJLn6twSamnociETMy7UV_fqKSSjtTvoMwRvFKOc/edit?usp=sharing) ††
 
