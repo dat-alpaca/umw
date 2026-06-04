@@ -32,7 +32,7 @@ nav_order: 4
 * [Websites of Japanese Embassies](https://www.mofa.go.jp/about/emb_cons/mofaserv.html)
 
 # Unofficial Information
-* [Japan | Past Exam Collection](https://drive.google.com/drive/folders/1ShzxNw-9eM9AdmDJYKly0FiZgKnj5BXJ?usp=sharing) †
+* [Past Exam Collection](https://drive.google.com/drive/folders/1ShzxNw-9eM9AdmDJYKly0FiZgKnj5BXJ?usp=sharing) †
 * [Exam scores and applicants statistics](https://docs.google.com/spreadsheets/d/10r7mJLn6twSamnociETMy7UV_fqKSSjtTvoMwRvFKOc/edit?usp=sharing) ††
 
 † This is the server's compendium of past exams from the MEXT scholarships, EJU, and Japanese University Entrance Exams. Additional information and statistics can also be found in this link, althought they have been migrated to the server itself, and may be outdated.
