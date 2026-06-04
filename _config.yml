@@ -1,2 +1,5 @@
 remote_theme: just-the-docs/just-the-docs
-title: [UMW] Unofficial MEXT Worldwide
+title: "[UMW] Unofficial MEXT Worldwide"
+
+plugins:
+  - jekyll-remote-theme
