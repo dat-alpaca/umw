@@ -1,25 +1,24 @@
 ---
 layout: default
 title: Statistics
-nav_order: 4
+nav_order: 5
 ---
 
 # Table of Contents
-1. [Undergraduate: Mathematics B](##Undergraduate:-Mathematics-B)
-2. [Undergraduate: Physics](##-Undergraduate:-Physics)
+1. [Undergraduate: Mathematics B](#undergraduate-mathematics-b)
+2. [Undergraduate: Physics](#undergraduate-physics)
 
 
 # MEXT Past Exams: Statistics
 
 This page serves as a quick reference for the breakdown of topics by subject in the exams. Given their nature, mathematics and physics are the most prominent.
 
-This data was collected from 2019 to 2025/2026.
+This data was collected from 2019 to 2025~2026.
 
->[!NOTE]
-Questions labeled "logarithms" include roots, exponentials, and logarithms.
+> Questions labeled "logarithms" include roots, exponentials, and logarithms.
 
 
-## Undergraduate: Mathematics B
+# Undergraduate: Mathematics B
 
 1. Calculus: 21.54%
 2. Analytical geometry: 13.85%
@@ -39,10 +38,10 @@ Questions labeled "logarithms" include roots, exponentials, and logarithms.
 16. Spatial geometry: 1.54%
 17. General: 1.54%*
 
-\* Specifically, this refers to the mathematical properties of the number "2019", such as its prime factorization.
+\* This refers to the mathematical properties of the number "2019", such as its prime factorization.
 
 
-## Undergraduate: Physics
+# Undergraduate: Physics
 1. Mechanics: 29.90%
 2. Waves: 14.43%
 3. Thermodynamics: 13.40%

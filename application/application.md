@@ -13,7 +13,7 @@ nav_order: 3
 6. [Culture and Japanese Language](#culture-and-japanese-language)
 
 # Application Information
-This page provides overview on the steps for each scholarship.
+This page provides a summary for each scholarship type. More information is available in their nested pages.
 
 Keep in mind that the Ministry-funded scholarships may have different application processes, namely the "Embassy Recommendation", which is the staple application process for the undergraduate, special training and school of technology programs; and the "University Recommendation" route.
 

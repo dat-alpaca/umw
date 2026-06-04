@@ -19,6 +19,8 @@ nav_order: 1
 
 This website's main purpose is to bring together information about the several MEXT scholarships available in one convenient place. Though, it mainly mirrors the information channels from our [Discord server](https://discord.gg/kzND3sX3zq). If you want to dive deeper into the details, ask questions, and talk to other applicants, I highly suggest you join the server.
 
+> General warnings: Pay close attention to the scholarship you want to pursue and the current political situation in Japan. Recently, several university-funded programs have started to reduce the number of students, reduce their stay, or shut down completely. For the time being, it's safe to assume that the Monbunkagakusho Funded Programs are not going to be affected.
+
 # 1. What is MEXT?
 
 MEXT stands for the "Ministry of Education, Culture, Sports, Science and Technology" of Japan. However, whenever you hear the acronym by itself, it more likely than not refers to the Japanese Government MEXT Scholarships.
