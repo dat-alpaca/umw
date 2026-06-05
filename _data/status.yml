@@ -1,0 +1,35 @@
+- name: "Research Scholarship"
+  abbrev: PG
+  dates: "April 4 ~ May 27, 2026"
+  status: "closed"
+  notes: "Currently no applicants have received any response from their consulates."
+
+- name: "Undergraduate Scholarship"
+  abbrev: UG
+  dates: "June 1 ~ 26, 2026"
+  status: "open"
+
+- name: "College of Technology Scholarship"
+  abbrev: "CoT"
+  dates: "June 1 ~ 26, 2026"
+  status: "open"
+
+- name: "Specialized Training College Scholarship"
+  abbrev: "STC"
+  dates: "June 1 ~ 26, 2026"
+  status: "open"
+
+- name: "Teacher Training Students Scholarship"
+  abbrev: "TT"
+  dates: "January 12 ~ February 13, 2026"
+  status: "closed"
+
+- name: "Japanese Studies Scholarship (Japanese Language/Culture Majors)"
+  abbrev: "JS"
+  dates: "January 12 ~ February 13, 2026"
+  status: "closed"
+
+- name: "Japanese Studies Scholarship (Students of Japanese Descent)"
+  abbrev: "JS"
+  dates: "January 12 ~ February 13, 2026"
+  status: "closed"

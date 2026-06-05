@@ -1,0 +1,5 @@
+open_text: "Applications Open"
+open_color: "text-green-100"
+
+closed_text: "Applications Closed"
+closed_color: "text-red-200"
