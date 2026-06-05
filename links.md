@@ -35,6 +35,6 @@ nav_order: 4
 * [Past Exam Collection](https://drive.google.com/drive/folders/1ShzxNw-9eM9AdmDJYKly0FiZgKnj5BXJ?usp=sharing) †
 * [Exam scores and applicants statistics](https://docs.google.com/spreadsheets/d/10r7mJLn6twSamnociETMy7UV_fqKSSjtTvoMwRvFKOc/edit?usp=sharing) ††
 
-† This is the server's compendium of past exams from the MEXT scholarships, EJU, and Japanese University Entrance Exams. Additional information and statistics can also be found in this link, althought they have been migrated to the server itself, and may be outdated.
+† This is the compendium of past exams from the MEXT scholarships, EJU, and Japanese University Entrance Exams. Additional information and statistics can also be found in this link, althought they have been migrated to the discord server itself, and may be outdated.
 
 †† This is a summary of the MEXT scholarship acceptance rates and similar information regarding the scholarship provided by @hexcorinthians.
