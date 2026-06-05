@@ -19,7 +19,9 @@ nav_order: 1
 
 This website's main purpose is to bring together information about the several MEXT scholarships available in one convenient place. Though, it mainly mirrors the information channels from our [Discord server](https://discord.gg/kzND3sX3zq). If you want to dive deeper into the details, ask questions, and talk to other applicants, I highly suggest you join the server.
 
-> General warnings: Pay close attention to the scholarship you want to pursue and the current political situation in Japan. Recently, several university-funded programs have started to reduce the number of students, reduce their stay, or shut down completely. For the time being, it's safe to assume that the Monbunkagakusho Funded Programs are not going to be affected.
+If you want to support this project, consider [buying me a chocolate bar](https://buymeacoffee.com/mext.unofficial.worldwide) :)
+
+> **Note:** Pay close attention to the scholarship you want to pursue and the current political situation in Japan. Recently, several university-funded programs have started to reduce the number of students, reduce their stay, or shut down completely. For the time being, it's safe to assume that the Monbunkagakusho Funded Programs are not going to be affected.
 
 # 1. What is MEXT?
 
@@ -38,6 +40,7 @@ After that, you should decide on which scholarship you want to apply to. Dependi
 After figuring out whether your country offers a scholarship, you should decide which scholarship type fits you the best. A summary of each of them is described as follows:
 
 - **Undergraduate [UG]:** A scholarship offered to students pursuing a bachelor's degree.
+
 - **Special Training College [STC]:** Equivalent to a vocational school.
 
 - **College of Technology [CoT]:** Allows the student to enter a Higher Technical School's 3rd year after a preparatory year.
