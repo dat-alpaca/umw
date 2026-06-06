@@ -11,14 +11,18 @@ nav_order: 2
 ---
 
 {% for item in site.data.status %}
+
+{% capture status_capture %}
+    {% if item.status == "open" %}
+    <span class="{{ site.data.constants.open_color }}">{{ site.data.constants.open_text }}</span>
+    {% else item.status == "closed %}
+    <span class="{{ site.data.constants.closed_color }}">{{ site.data.constants.closed_text }}</span>
+    {% endif %}
+{% endcapture %}
+
 ### **{{ item.name }}** [{{ item.abbrev }}]
-**Application Period:** {{ item.dates }}
-{% if item.status == "open" %}
-<span class="{{ site.data.constants.open_color }}">{{ site.data.constants.open_text }}</span>
-{% endif %}
-{% if item.status == "closed" %}
-<span class="{{ site.data.constants.closed_color }}">{{ site.data.constants.closed_text }}</span>
-{% endif %}
+**Application Status:** {{ status_capture | strip }} \\
+**For more information:** [{{item.abbrev}} Guide]({% link {{item.url}} %})
 
 {% if item.notes != "" %}
 > {{ item.notes }}
