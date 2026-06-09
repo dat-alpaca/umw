@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Statistics
-nav_order: 5
+nav order: 5
 ---
 
 # Table of Contents
@@ -20,23 +20,25 @@ This data was collected from 2019 to 2026.
 
 | Subject | Frequency |
 | :---: | :---: |
-| Calculus | 21.54% |
-| Analytical geometry | 13.85% |
-| Algebra | 12.31% |
-| Trigonometry | 10.77% |
-| Logarithm | 7.69% |
-| Logarithms | 6.15% |
-| Probability | 4.62% |
-| Recurrence | 4.62% |
-| Polynomials | 3.08% |
-| Geometry | 3.08% |
-| Linear algebra | 3.08% |
-| Quadratic equation | 1.54% |
-| Complex numbers | 1.54% |
-| Statistics | 1.54% |
-| Set | 1.54% |
-| Spatial geometry | 1.54% |
-| General | 1.54% |
+| Exponentials II | 12.50% |
+| Differential Calculus III | 10.94% |
+| Geometry II | 9.38% |
+| Trigonometry I | 7.81% |
+| Integral Calculus III | 7.81% |
+| Sequences B | 6.25% |
+| Trigonometry II | 6.25% |
+| Integers A | 4.69% |
+| Geometry A | 4.69% |
+| Vectors C | 4.69% |
+| Numbers and expressions I | 4.69% |
+| Quadratic equations I | 4.69% |
+| Various II [Polynomials II] | 4.69% |
+| Probability A | 3.12% |
+| Probability B (Statistics) | 1.56% |
+| Analytical Geometry c (equations and curves) | 1.56% |
+| Sets and Propositions i | 1.56% |
+| Functions III | 1.56% |
+| Limits III | 1.56% |
 
 # Undergraduate: Mathematics A
 Data taken from exams between 2018 and 2020.
