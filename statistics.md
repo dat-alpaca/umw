@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Statistics
-nav_order: 5
+layout | default
+title | Statistics
+nav_order | 5
 ---
 
 # Table of Contents
@@ -9,45 +9,72 @@ nav_order: 5
 2. [Undergraduate: Physics](#undergraduate-physics)
 
 
-# MEXT Past Exams: Statistics
+# MEXT Past Exams | Statistics
 
 This page serves as a quick reference for the breakdown of topics by subject in the exams. Given their nature, mathematics and physics are the most prominent.
 
-This data was collected from 2019 to 2025~2026.
-
-> Questions labeled "logarithms" include roots, exponentials, and logarithms.
-
+> This section is under development and may change in the future.
 
 # Undergraduate: Mathematics B
+This data was collected from 2019 to 2026.
 
-1. Calculus: 21.54%
-2. Analytical geometry: 13.85%
-3. Algebra: 12.31%
-4. Trigonometry: 10.77%
-5. Logarithm: 7.69%
-6. Logarithms: 6.15%
-7. Probability: 4.62%
-8. Recurrence: 4.62%
-9. Polynomials: 3.08%
-10. Geometry: 3.08%
-11. Linear algebra: 3.08%
-12. Quadratic equation: 1.54%
-13. Complex numbers: 1.54%
-14. Statistics: 1.54%
-15. Set: 1.54%
-16. Spatial geometry: 1.54%
-17. General: 1.54%*
+| Subject | Frequency |
+| :---: | :---: |
+| Calculus | 21.54% |
+| Analytical geometry | 13.85% |
+| Algebra | 12.31% |
+| Trigonometry | 10.77% |
+| Logarithm | 7.69% |
+| Logarithms | 6.15% |
+| Probability | 4.62% |
+| Recurrence | 4.62% |
+| Polynomials | 3.08% |
+| Geometry | 3.08% |
+| Linear algebra | 3.08% |
+| Quadratic equation | 1.54% |
+| Complex numbers | 1.54% |
+| Statistics | 1.54% |
+| Set | 1.54% |
+| Spatial geometry | 1.54% |
+| General | 1.54% |
 
-\* This refers to the mathematical properties of the number "2019", such as its prime factorization.
+# Undergraduate: Mathematics A
+Data taken from exams between 2018 and 2020.
 
+| Subject | Frequency |
+| :---: | :---: |
+| Integers A  | 11.76 % |
+| Numbers and expressions I  | 11.76 % |
+| Quadratic equations I  | 9.80 % |
+| Probability A  | 7.84 % |
+| Geometry II  | 5.88 % |
+| Differential calculus III  | 5.88 % |
+| Trigonometry I  | 5.88 % |
+| Sequences B  | 5.88 % |
+| Sets and propositions I  | 3.92 % |
+| Various II  | 3.92 % |
+| Geometry A  | 3.92 % |
+| Trigonometry II  | 3.92 % |
+| Integral calculus III  | 3.92 % |
+| Exponentials II  | 3.92 % |
+| Trigonomtry II  | 1.96 % |
+| Probability B  | 1.96 % |
+| Quadratic equation I  | 1.96 % |
+| Functions III  | 1.96 % |
+| Vectors C  | 1.96 % |
+| Analytical geometry C  | 1.96 % |
 
-# Undergraduate: Physics
-1. Mechanics: 29.90%
-2. Waves: 14.43%
-3. Thermodynamics: 13.40%
-5. Electrostatics: 12.37%
-6. Electromagnetism: 11.34%
-7. Kinematics: 6.19%,
-8. Gravitation: 5.15%
-9. Wave: 4.12%,
-10. Magnetism: 1.03%
+# Undergraduate | Physics
+This data was collected from 2019 to 2026.
+
+| Subject | Frequency |
+| :---: | :---: |
+| Mechanics | 29.90% |
+| Waves | 14.43% |
+| Thermodynamics | 13.40% |
+| Electrostatics | 12.37% |
+| Electromagnetism | 11.34% |
+| Kinematics | 6.19% |
+| Gravitation | 5.15% |
+| Wave | 4.12% |
+| Magnetism | 1.03% |
