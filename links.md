@@ -32,7 +32,7 @@ nav_order: 4
 * [Websites of Japanese Embassies](https://www.mofa.go.jp/about/emb_cons/mofaserv.html)
 
 # Unofficial Information
-* [Discord server](https://discord.gg/kzND3sX3zq)
+* [Discord server]({{ site.discord_invite }})
 * [Past Exam Collection](https://drive.google.com/drive/folders/1ShzxNw-9eM9AdmDJYKly0FiZgKnj5BXJ?usp=sharing) †
 * [Exam scores and applicants statistics](https://docs.google.com/spreadsheets/d/10r7mJLn6twSamnociETMy7UV_fqKSSjtTvoMwRvFKOc/edit?usp=sharing) ††
 

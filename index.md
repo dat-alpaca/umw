@@ -17,9 +17,11 @@ nav_order: 1
 # Unofficial MEXT Worldwide
 ## Welcome!
 
-This website's main purpose is to bring together information about the several MEXT scholarships available in one convenient place. Though, it mainly mirrors the information channels from our [Discord server](https://discord.gg/kzND3sX3zq). If you want to dive deeper into the details, ask questions, and talk to other applicants, I highly suggest you join the server.
+This website's main purpose is to bring together information about the several MEXT scholarships available in one convenient place. Though, it mainly mirrors the information channels from our [Discord server]({{site.discord_invite}}). If you want to dive deeper into the details, ask questions, and talk to other applicants, I highly suggest you join the server.
 
 If you want to support this project, consider [buying me a chocolate bar](https://buymeacoffee.com/mext.unofficial.worldwide) :)
+
+Feel free to share this content! Just remember to link back to the source and credit us for the curation.
 
 > **Note:** Pay close attention to the scholarship you want to pursue and the current political situation in Japan. Recently, several university-funded programs have started to reduce the number of students, reduce their stay, or shut down completely. For the time being, it's safe to assume that the Monbunkagakusho Funded Programs are not going to be affected.
 

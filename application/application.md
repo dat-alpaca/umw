@@ -20,7 +20,7 @@ The Special Training College (STC) scholarship for a vocational course in Japan 
 For more details, see the [STC Guide]({% link application/2_stc.md %}).
 
 # [College of Technology]({% link application/3_cot.md %})
-Excruciatingly similar to that of Undergraduate, but the exams are different. If you want to contribute, please send a draft containing the steps necessary to apply for this scholarship on the [Discord server](https://discord.gg/kzND3sX3zq).
+Excruciatingly similar to that of Undergraduate, but the exams are different. If you want to contribute, please send a draft containing the steps necessary to apply for this scholarship on the [Discord server]({{ site.discord_invite }}).
 
 For more details, see the [CoT Guide]({% link application/3_cot.md %}).
 

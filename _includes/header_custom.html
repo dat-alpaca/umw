@@ -1,0 +1,30 @@
+<a href="{{ site.discord_invite }}" target="_blank" class="header-discord-link" title="Join our Discord">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/discord.svg"
+       class="header-discord-icon" 
+       alt="Discord"/>
+</a>
+
+<style>
+  .header-discord-link {
+    display: flex;
+    align-items: center;
+    margin-right: 12px;
+
+    transition: transform 0.1s ease-in-out;
+  }
+  
+  .header-discord-link:hover {
+    transform: scale(1.15);
+  }
+
+  .header-discord-icon {
+    width: 24px;
+    height: 24px;
+    filter: invert(var(--search-icon-color-invert, 0.5)); 
+  }
+  
+  /* Dark mode */
+  [data-theme="dark"] .header-discord-icon {
+    filter: invert(1);
+  }
+</style>
