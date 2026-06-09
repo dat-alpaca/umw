@@ -3,6 +3,10 @@
   dates: "June"
   status: "open"
   url: "/application/1_ug/"
+  notes: [
+    "**Italy**: Interviews announced (July 15th)",
+    "**India**: Documentation results out"
+  ]
 
 - name: "Specialized Training College Scholarship"
   abbrev: "STC"

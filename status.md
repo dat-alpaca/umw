@@ -27,8 +27,13 @@ nav_order: 2
 **For more information:** [{{item.abbrev}} Guide]({{ item.url | relative_url }})
 
 {% if item.notes != "" %}
-> {{ item.notes }}
+
+{% for note in item.notes %}
+> {{ note }}
+{% endfor %}
+
 {% endif %}
+
 
 ---
 
