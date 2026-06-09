@@ -2,34 +2,34 @@
   abbrev: UG
   dates: "June"
   status: "open"
-  url: "application/1_ug.md"
+  url: "/application/1_ug/"
 
 - name: "Specialized Training College Scholarship"
   abbrev: "STC"
   status: "open"
-  url: "application/2_stc.md"
+  url: "/application/2_stc/"
 
 - name: "College of Technology Scholarship"
   abbrev: "CoT"
   status: "open"
-  url: "application/3_cot.md"
+  url: "/application/3_cot/"
 
 - name: "Research Scholarship"
   abbrev: PG
   status: "exams"
-  url: "application/4_pg.md"
+  url: "/application/4_pg/"
 
 - name: "Teacher Training Students Scholarship"
   abbrev: "SPT"
   status: "closed"
-  url: "application/5_spt.md"
+  url: "/application/5_spt/"
 
 - name: "Japanese Studies Scholarship (Japanese Language/Culture Majors)"
   abbrev: "JS"
   status: "closed"
-  url: "application/6_cjl.md"
+  url: "/application/6_cjl/"
 
 - name: "Japanese Studies Scholarship (Students of Japanese Descent)"
   abbrev: "JS"
   status: "closed"
-  url: "application/6_cjl.md"
+  url: "/application/6_cjl/"

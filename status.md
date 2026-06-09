@@ -24,7 +24,7 @@ nav_order: 2
 
 ### **{{ item.name }}** [{{ item.abbrev }}]
 **Application Status:** {{ status_capture | strip }} \\
-**For more information:** [{{item.abbrev}} Guide]({% link {{item.url}} %})
+**For more information:** [{{item.abbrev}} Guide]({{ item.url | relative_url }})
 
 {% if item.notes != "" %}
 > {{ item.notes }}
