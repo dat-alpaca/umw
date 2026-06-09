@@ -3,5 +3,8 @@ title: "Unofficial MEXT Worldwide"
 
 discord_invite: "https://discord.gg/kzND3sX3zq"
 
+website_theme_color: "#9ce0ee"
+discord_server_icon: "/images/server_icon.png"
+
 plugins:
   - jekyll-remote-theme
