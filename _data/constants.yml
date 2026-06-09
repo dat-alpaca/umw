@@ -3,3 +3,6 @@ open_color: "text-green-100"
 
 closed_text: "Applications Closed"
 closed_color: "text-red-200"
+
+exams_text: "Exams ongoing"
+exams_color: "text-yellow-100"

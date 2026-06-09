@@ -15,7 +15,9 @@ nav_order: 2
 {% capture status_capture %}
     {% if item.status == "open" %}
     <span class="{{ site.data.constants.open_color }}">{{ site.data.constants.open_text }}</span>
-    {% else item.status == "closed %}
+    {% elsif item.status == "exams" %}
+    <span class="{{ site.data.constants.exams_color }}">{{ site.data.constants.exams_text }}</span>
+    {% elsif item.status == "closed" %}
     <span class="{{ site.data.constants.closed_color }}">{{ site.data.constants.closed_text }}</span>
     {% endif %}
 {% endcapture %}

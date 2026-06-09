@@ -1,7 +1,7 @@
 ---
-layout | default
-title | Statistics
-nav_order | 5
+layout: default
+title: Statistics
+nav_order: 5
 ---
 
 # Table of Contents

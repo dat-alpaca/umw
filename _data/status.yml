@@ -16,8 +16,7 @@
 
 - name: "Research Scholarship"
   abbrev: PG
-  status: "closed"
-  notes: "Currently no applicants have received any response from their consulates."
+  status: "exams"
   url: "application/4_pg.md"
 
 - name: "Teacher Training Students Scholarship"
