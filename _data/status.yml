@@ -37,6 +37,7 @@ countries:
       status: "open"
       notes:
       - "Documentation results announced"
+      - "Exam dates announced: July 15th"
       - "Interview date announced: July 27th"
 
   india:
