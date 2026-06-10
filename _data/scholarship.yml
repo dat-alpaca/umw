@@ -1,20 +1,20 @@
 scholarships:
   ug:
     name: "Undergraduate"
-    url: "application/1_ug/"
+    url: "application/1_ug"
   stc:
     name: "Specialized Training College"
-    url: "application/2_stc/"
+    url: "application/2_stc"
   cot:
     name: "College of Technology"
-    url: "application/3_cot/"
+    url: "application/3_cot"
   pg:
     name: "Research"
-    url: "application/4_pg/"
+    url: "application/4_pg"
   spt:
     name: "Teacher Training Students"
-    url: "application/5_spt/"
+    url: "application/5_spt"
   cjl:
     name: "Japanese Studies"
-    url: "application/6_cjl/"
+    url: "application/6_cjl"
 
