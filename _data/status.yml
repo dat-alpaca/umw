@@ -1,39 +1,45 @@
-- name: "Undergraduate Scholarship"
-  abbrev: UG
-  dates: "June"
-  status: "open"
-  url: "/application/1_ug/"
-  notes: [
-    "**Documentation results announced**: India, Sri Lanka",
-    "**Interview date announced**: Italy",
-  ]
+countries:
+  global:
+    scholarships:
+    - type: "UG"
+      status: "open"
 
-- name: "Specialized Training College Scholarship"
-  abbrev: "STC"
-  status: "open"
-  url: "/application/2_stc/"
+    - type: "STC"
+      status: "open"
 
-- name: "College of Technology Scholarship"
-  abbrev: "CoT"
-  status: "open"
-  url: "/application/3_cot/"
+    - type: "COT"
+      status: "open"
 
-- name: "Research Scholarship"
-  abbrev: PG
-  status: "exams"
-  url: "/application/4_pg/"
+    - type: "PG"
+      status: "exams"
 
-- name: "Teacher Training Students Scholarship"
-  abbrev: "SPT"
-  status: "closed"
-  url: "/application/5_spt/"
+    - type: "SPT"
+      status: "closed"
 
-- name: "Japanese Studies Scholarship (Japanese Language/Culture Majors)"
-  abbrev: "JS"
-  status: "closed"
-  url: "/application/6_cjl/"
+    - type: "JS"
+      status: "closed"
+  
+  italy:
+    url: https://www.it.emb-japan.go.jp/itprtop_it/index.html
+    scholarships:
+    - type: "UG"
+      status: "open"
+      notes:
+      - "Interview date announced: July 27th"
 
-- name: "Japanese Studies Scholarship (Students of Japanese Descent)"
-  abbrev: "JS"
-  status: "closed"
-  url: "/application/6_cjl/"
+  india:
+    url: https://www.in.emb-japan.go.jp/education/japanese_government_scholarships.html
+    scholarships:
+    - type: "UG"
+      status: "open"
+      notes:
+        - "Documentation results announced. Check the Embassy's website."
+
+  sri lanka:
+    url: https://www.lk.emb-japan.go.jp/eg/contents/Scholarship/SchlarshipNewE.html
+    scholarships:
+    - type: "UG"
+      status: "open"
+      notes:
+        - "Documentation results announced. Check the Embassy's website."
+    
