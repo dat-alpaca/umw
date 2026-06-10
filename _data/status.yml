@@ -50,6 +50,7 @@ countries:
       notes:
       - "Documentation results announced"
       - "Exam dates announced: July 15th"
+      - "Exam order: Japanese (9h15-10h55), English (11h - 12h), Mathematics (12h05 - 13h05), Chemistry (14h - 15h), Physics/Biology (15h05 - 16h05)"
       - "Interview date announced: July 27th"
 
   sweden:
@@ -76,6 +77,7 @@ countries:
       status: "open"
       notes:
         - "Exam dates announced: June 27th"
+        - "Interview dates announced: July 17th"
 
   sri lanka:
     url: https://www.lk.emb-japan.go.jp/eg/contents/Scholarship/SchlarshipNewE.html
