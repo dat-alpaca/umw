@@ -75,6 +75,16 @@ countries:
       notes:
         - "Documentation results announced."
         - "Exam dates announced: June 20th"
+    - type: "COT"
+      status: "open"
+      notes:
+        - "Exam dates announced: July 12th"
+        - "Interview dates announced: July 15th"
+    - type: "STC"
+      status: "open"
+      notes:
+        - "Exam dates announced: July 12th"
+        - "Interview dates announced: July 15th"
 
   romania:
     url: https://www.ro.emb-japan.go.jp/itpr_ro/11_000001_01576.html
