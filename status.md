@@ -15,13 +15,40 @@ The global selector contains the general information across every country. If yo
 <!-- Selector -->
 <div id="country-container">
     <label id="country-label" for="country-select" class="text-beta">country:</label>
-    <select id="country-select">
-        {% for country in site.data.status.countries %}
-            {% assign country_name = country[0] %}
-            <option value="{{country_name}}">{{ country_name | capitalize }}</option>
-        {% endfor %}
-    </select>
+    <select id="country-select"></select>
 </div>
+
+<script>
+    const select = document.getElementById("country-select");
+
+    const countryData = {{ site.data.status.countries | jsonify }};
+    const priority = ["global", "brasil"];
+
+    const sortedCountries = Object.entries(countryData).sort(([lhs], [rhs]) => {
+        const lhsIndex = priority.indexOf(lhs);
+        const rhsIndex = priority.indexOf(rhs);
+
+        if (lhsIndex !== -1 && rhsIndex !== -1)
+            return lhsIndex - rhsIndex;
+
+        if (lhsIndex !== -1)
+            return -1;
+
+        if (rhsIndex !== -1)
+            return 1;
+
+        return lhs.localeCompare(rhs);
+    });
+
+    sortedCountries.forEach(([country]) => {
+        const option = document.createElement("option");
+        option.value = country;
+        option.textContent =
+            country.charAt(0).toUpperCase() + country.slice(1);
+
+        select.appendChild(option);
+    });
+</script>
 
 <style>
     #country-container {
@@ -98,7 +125,6 @@ The global selector contains the general information across every country. If yo
 <div id="scholarship-container"></div>
 
 <script>
-    const countryData = {{ site.data.status.countries | jsonify }};
     const scholarshipData = {{ site.data.scholarship.scholarships | jsonify }};
 
     const styles = {

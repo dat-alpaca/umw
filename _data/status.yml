@@ -92,3 +92,11 @@ countries:
       status: "open"
       notes:
         - "Exam dates announced: June 20th (Not confirmed)"
+
+  germany:
+    url: https://www.de.emb-japan.go.jp/itpr_de/austausch_index.html
+    scholarships:
+    - type: "PG"
+      status: "exams"
+      notes:
+        - "Interviews conducted: June 8th"
