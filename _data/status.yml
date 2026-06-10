@@ -21,6 +21,9 @@ countries:
       status: "open"
     - type: "PG"
       status: "exams"
+      notes:
+        - "Documentation results announced in some countries"
+        - "Interviews conducted in some countries"
     - type: "SPT"
       status: "closed"
     - type: "JS"
