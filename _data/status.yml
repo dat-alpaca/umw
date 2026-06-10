@@ -3,9 +3,21 @@ countries:
     scholarships:
     - type: "UG"
       status: "open"
+      notes:
+        - "Documentation results announced in some countries"
+        - "Exam dates announced in some countries"
+        - "Interview dates announced in some countries"
     - type: "STC"
       status: "open"
+      notes:
+        - "Documentation results announced in some countries"
+        - "Exam dates announced in some countries"
+        - "Interview dates announced in some countries"
     - type: "COT"
+      notes:
+        - "Documentation results announced in some countries"
+        - "Exam dates announced in some countries"
+        - "Interview dates announced in some countries"
       status: "open"
     - type: "PG"
       status: "exams"
@@ -40,13 +52,32 @@ countries:
       - "Exam dates announced: July 15th"
       - "Interview date announced: July 27th"
 
+  sweden:
+    url: https://www.se.emb-japan.go.jp/itpr_sv/monbukagakusho_researchstudent.html
+    scholarships:
+    - type: "UG"
+      status: "open"
+      notes:
+      - "Documentation results announced"
+      - "Exam dates announced: June 25th"
+
   india:
     url: https://www.in.emb-japan.go.jp/education/japanese_government_scholarships.html
     scholarships:
     - type: "UG"
       status: "open"
       notes:
-        - "Documentation results announced. Check the Embassy's website."
+        - "Documentation results announced."
+        - "Exam dates announced: June 20th"
+
+  romania:
+    url: https://www.ro.emb-japan.go.jp/itpr_ro/11_000001_01576.html
+    scholarships:
+    - type: "UG"
+      status: "open"
+      notes:
+        - "Documentation results announced."
+        - "Exam dates announced: June 27th"
 
   sri lanka:
     url: https://www.lk.emb-japan.go.jp/eg/contents/Scholarship/SchlarshipNewE.html
@@ -55,4 +86,4 @@ countries:
       status: "open"
       notes:
         - "Documentation results announced. Check the Embassy's website."
-    
+        - "Exam dates announced: June 20th (Not confirmed)"
