@@ -107,7 +107,7 @@ The global selector contains the general information across every country. If yo
         closed: { text: "{{ site.data.constants.closed_text }}", class: "{{ site.data.constants.closed_color }}" }
     };
 
-    function updateTable(countryKey) {
+    function updateCards(countryKey) {
         let country = countryData[countryKey];
         if (!country || !country.scholarships)
             country = countryData['global'];
@@ -118,7 +118,12 @@ The global selector contains the general information across every country. If yo
         if (countryKey !== "global") {
             const countryEmbassyURL = document.createElement('div');
             countryEmbassyURL.classList.add("text-gamma");
-            countryEmbassyURL.innerHTML = `Check out more information accessing the <a href="${country.url}">Embassy's website</a>.`;
+            countryEmbassyURL.innerHTML = `
+                Check out more information accessing the 
+                <a target="_blank" rel="noopener noreferrer" href="${country.url}">
+                    Embassy's website
+                </a>.
+            `;
             
             container.appendChild(countryEmbassyURL);
         }
@@ -178,8 +183,8 @@ The global selector contains the general information across every country. If yo
 
     const selector = document.getElementById('country-select');
     selector.addEventListener('change', function() {
-        updateTable(selector.value);
+        updateCards(selector.value);
     });
     
-    updateTable("global");
+    updateCards("global");
 </script>
