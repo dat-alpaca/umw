@@ -7,7 +7,7 @@ nav_order: 2
 {% assign current_year = site.time | date: "%Y" | plus: 0 %}
 # MEXT Scholarship Status ({{ site.time | date: "%Y" }}/{{ current_year | plus: 1 }})
 
-> Each embassy and consulate offers different scholarship types. The scholarships listed below are specifically those offered in Brazil. Please use this page only as a general guide, and always check your embassy or consulate's website for official information.
+> Each embassy and consulate offers different scholarship types. The scholarships listed below are based on those offered in Brazil. Please use this page only as a general guide, and always check your embassy or consulate's website for official information.
 
 <br>
 The global selector contains the general information across every country. If you want specific country information, use the dropdown below.
