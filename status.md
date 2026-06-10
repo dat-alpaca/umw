@@ -12,8 +12,6 @@ nav_order: 2
 <br>
 The global selector contains the general information across every country. If you want specific country information, use the dropdown below.
 
-<br>
-
 <!-- Selector -->
 <div id="country-container">
     <label id="country-label" for="country-select" class="text-beta">country:</label>
@@ -34,7 +32,6 @@ The global selector contains the general information across every country. If yo
         justify-content: space-between;
 
         margin-bottom: 2rem;
-        max-width: 320px;
     }
     #country-label {
         margin-right: 1.5rem;
@@ -68,20 +65,32 @@ The global selector contains the general information across every country. If yo
         cursor: pointer;
         box-shadow: 0 1px 2px rgba(0,0,0,0.05);
     }
+    .scholarship-item {
+        margin-bottom: 1rem;
+        padding: 1rem;
 
-    .scholarship-table-note {
-        display: block;
-        padding-left: 1.75rem;
+        border: 1px solid var(--border-color);
+        border-radius: 4px;
+
+        box-shadow: 0 1px 3px rgba(0,0,0,0.5);
     }
-    .scholarship-table-note-item {
-        padding: 0.2rem 0;
-        border: none;
-        
-        color: var(--text-color);
-        font-size: 0.95rem;
-        
-        list-style-type: disc;
-        display: list-item;
+
+    .scholarship-name {
+        margin-bottom: 0.25rem;
+    }
+
+    .scholarship-status {
+        margin-bottom: 0.5rem;
+    }
+
+    .scholarship-notes {
+        margin: 0;
+        padding-left: 1.5rem;
+    }
+
+    .scholarship-notes li {
+        margin: 0.2rem 0;
+        white-space: pre-wrap;
     }
 </style>
 
@@ -106,16 +115,16 @@ The global selector contains the general information across every country. If yo
         const container = document.getElementById('scholarship-container');
         container.innerHTML = '';
 
-
         if (countryKey !== "global") {
             const countryEmbassyURL = document.createElement('div');
             countryEmbassyURL.classList.add("text-gamma");
             countryEmbassyURL.innerHTML = `Check out more information accessing the <a href="${country.url}">Embassy's website</a>.`;
             
             container.appendChild(countryEmbassyURL);
-            const hr = document.createElement('hr');
-            container.appendChild(hr);
         }
+
+        const hr = document.createElement('hr');
+        container.appendChild(hr);
 
         country.scholarships.forEach((item, index) => {
             const typeKey = item.type.toLowerCase();
@@ -124,47 +133,46 @@ The global selector contains the general information across every country. If yo
             if (!meta) 
                 return;
 
-            const table = document.createElement('table');
-            table.style.width = '100%';
-            table.style.marginBottom = '2rem';
+            const card = document.createElement('div');
+            card.classList.add('scholarship-item');
 
-            const tableBody = document.createElement('tbody');
-
-            const nameRow = document.createElement('tr');
             const href = new URL(meta.url, window.location.href).href;
-            nameRow.innerHTML = `
-                <td style="padding-bottom: 0.25rem;">
+
+            const statusStyle = styles[item.status].class;
+            const statusText = styles[item.status].text;
+
+            card.innerHTML = `
+                <div class="scholarship-name">
                     <a href="${href}" class="text-beta">
                         ${meta.name}
                     </a>
-                </td>`;
-            tableBody.appendChild(nameRow);
+                </div>
 
-            const statusRow = document.createElement('tr');
-            const statusStyle = styles[item.status].class;
-            const statusText = styles[item.status].text;
-            
-            statusRow.innerHTML = `
-                <td style="padding-top: 0; padding-bottom: 0.5rem;">
-                    <span class="text-gamma">Status:</span> 
-                    <span class="text-gamma ${statusStyle}">${statusText}</span>
-                </td>`;
-            tableBody.appendChild(statusRow);
+                <div class="scholarship-status">
+                    <span class="text-gamma">Status:</span>
+                    <span class="text-gamma ${statusStyle}">
+                        ${statusText}
+                    </span>
+                </div>
+            `;
 
-            const notes = (item.notes && Array.isArray(item.notes)) ? item.notes : 
-                          (meta.notes && Array.isArray(meta.notes)) ? meta.notes : null;
+            const notes = (item.notes && Array.isArray(item.notes)) ? item.notes
+                    : (meta.notes && Array.isArray(meta.notes)) ? meta.notes : null;
 
-            if (notes) {
+            if (notes?.length) {
+                const ul = document.createElement('ul');
+                ul.classList.add('scholarship-notes');
+
                 notes.forEach(note => {
-                    const noteRow = document.createElement('tr');
-                    noteRow.classList.add("scholarship-table-note");
-                    noteRow.innerHTML = `<td class="scholarship-table-note-item">${note}</td>`;
-                    tableBody.appendChild(noteRow);
+                    const li = document.createElement('li');
+                    li.textContent = note;
+                    ul.appendChild(li);
                 });
+
+                card.appendChild(ul);
             }
 
-            table.appendChild(tableBody);
-            container.appendChild(table);
+            container.appendChild(card);
         });
     }
 

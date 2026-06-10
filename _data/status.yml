@@ -50,7 +50,13 @@ countries:
       notes:
       - "Documentation results announced"
       - "Exam dates announced: July 15th"
-      - "Exam order: Japanese (9h15-10h55), English (11h - 12h), Mathematics (12h05 - 13h05), Chemistry (14h - 15h), Physics/Biology (15h05 - 16h05)"
+      - |
+        Exam order:
+            1. Japanese (9h15-10h55)
+            2. English (11h - 12h)
+            3. Mathematics (12h05 - 13h05)
+            4. Chemistry (14h - 15h)
+            5. Physics/Biology (15h05 - 16h05)
       - "Interview date announced: July 27th"
 
   sweden:
