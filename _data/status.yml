@@ -3,22 +3,34 @@ countries:
     scholarships:
     - type: "UG"
       status: "open"
-
     - type: "STC"
       status: "open"
-
     - type: "COT"
       status: "open"
-
     - type: "PG"
       status: "exams"
-
     - type: "SPT"
       status: "closed"
-
     - type: "JS"
       status: "closed"
   
+  brasil:
+    url: https://www.br.emb-japan.go.jp/itpr_pt/bolsas_programas.html
+    scholarships:
+    - type: "UG"
+      status: "open"
+    - type: "STC"
+      status: "open"
+    - type: "COT"
+      status: "open"
+    - type: "PG"
+      status: "exams"
+    - type: "SPT"
+      status: "closed"
+    - type: "JS"
+      status: "closed"
+    
+
   italy:
     url: https://www.it.emb-japan.go.jp/itprtop_it/index.html
     scholarships:
