@@ -36,6 +36,7 @@ countries:
     - type: "UG"
       status: "open"
       notes:
+      - "Documentation results announced"
       - "Interview date announced: July 27th"
 
   india:
