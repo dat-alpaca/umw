@@ -110,3 +110,11 @@ countries:
       status: "exams"
       notes:
         - "Interviews conducted: June 8th"
+
+  france:
+    url: https://www.fr.emb-japan.go.jp/itpr_fr/bourse-etudes-recherche.html
+    scholarships:
+    - type: "PG"
+      status: "exams"
+      notes:
+        - "Documentation results announced: Date unknown"
