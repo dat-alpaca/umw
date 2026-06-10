@@ -58,7 +58,6 @@ countries:
     - type: "UG"
       status: "open"
       notes:
-      - "Documentation results announced"
       - "Exam dates announced: June 25th"
 
   india:
@@ -76,7 +75,6 @@ countries:
     - type: "UG"
       status: "open"
       notes:
-        - "Documentation results announced."
         - "Exam dates announced: June 27th"
 
   sri lanka:
@@ -85,5 +83,4 @@ countries:
     - type: "UG"
       status: "open"
       notes:
-        - "Documentation results announced. Check the Embassy's website."
         - "Exam dates announced: June 20th (Not confirmed)"
