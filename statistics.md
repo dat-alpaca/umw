@@ -30,12 +30,12 @@ This data was collected from 2019 to 2026.
 | Integers A | 4.69% |
 | Geometry A | 4.69% |
 | Vectors C | 4.69% |
-| Numbers and expressions I | 4.69% |
-| Quadratic equations I | 4.69% |
-| Various II [Polynomials II] | 4.69% |
+| Numbers and Expressions I | 4.69% |
+| Quadratic Equations I | 4.69% |
+| Various II (Polynomials II) | 4.69% |
 | Probability A | 3.12% |
 | Probability B (Statistics) | 1.56% |
-| Analytical Geometry c (equations and curves) | 1.56% |
+| Analytical Geometry C (Equations and Curves) | 1.56% |
 | Sets and Propositions i | 1.56% |
 | Functions III | 1.56% |
 | Limits III | 1.56% |
@@ -46,25 +46,25 @@ Data taken from exams between 2018 and 2020.
 | Subject | Frequency |
 | :---: | :---: |
 | Integers A  | 11.76 % |
-| Numbers and expressions I  | 11.76 % |
-| Quadratic equations I  | 9.80 % |
+| Numbers and Expressions I  | 11.76 % |
+| Quadratic Equations I  | 9.80 % |
 | Probability A  | 7.84 % |
 | Geometry II  | 5.88 % |
-| Differential calculus III  | 5.88 % |
+| Differential Calculus III  | 5.88 % |
 | Trigonometry I  | 5.88 % |
 | Sequences B  | 5.88 % |
-| Sets and propositions I  | 3.92 % |
+| Sets and Propositions I  | 3.92 % |
 | Various II  | 3.92 % |
 | Geometry A  | 3.92 % |
 | Trigonometry II  | 3.92 % |
-| Integral calculus III  | 3.92 % |
+| Integral Calculus III  | 3.92 % |
 | Exponentials II  | 3.92 % |
-| Trigonomtry II  | 1.96 % |
+| Trigonometry II  | 1.96 % |
 | Probability B  | 1.96 % |
-| Quadratic equation I  | 1.96 % |
+| Quadratic Equation I  | 1.96 % |
 | Functions III  | 1.96 % |
 | Vectors C  | 1.96 % |
-| Analytical geometry C  | 1.96 % |
+| Analytical Geometry C  | 1.96 % |
 
 # Undergraduate | Physics
 This data was collected from 2019 to 2026.
