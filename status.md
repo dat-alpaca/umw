@@ -131,9 +131,10 @@ The global selector contains the general information across every country. If yo
             const tableBody = document.createElement('tbody');
 
             const nameRow = document.createElement('tr');
+            const href = new URL(meta.url, window.location.href).href;
             nameRow.innerHTML = `
                 <td style="padding-bottom: 0.25rem;">
-                    <a href="${meta.url}" class="text-beta">
+                    <a href="${href}" class="text-beta">
                         ${meta.name}
                     </a>
                 </td>`;

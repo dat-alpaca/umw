@@ -30,7 +30,6 @@ countries:
     - type: "JS"
       status: "closed"
     
-
   italy:
     url: https://www.it.emb-japan.go.jp/itprtop_it/index.html
     scholarships:
