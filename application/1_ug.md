@@ -39,7 +39,8 @@ The first year of the scholarship consists of a preparatory course.
 ### Natural Sciences:
 The subjects are mathematics, physics or biology, depending on your major, chemistry, and Japanese. The content of the lectures and exams are similar to the MEXT entrance exam.
 
-:warning:  Before even coming to Japan, you'll be asked to do a Japanese placement test. It is HIGHLY advisable that you do not cheat this exam in order to get a higher score, despite the fact that it's held online. The reason for that is that this score will determine which of the U-classes you will attend.
+{: .note }
+Before even coming to Japan, you'll be asked to do a Japanese placement test. It is HIGHLY advisable that you do not cheat this exam in order to get a higher score, despite the fact that it's held online. The reason for that is that this score will determine which of the U-classes you will attend.
 
 In short, the japanese level requirement can be closely related to the following JLPT levels, albeit with some caveats*:
 * **U1:**  N1+;

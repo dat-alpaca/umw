@@ -23,7 +23,8 @@ If you want to support this project, consider [buying me a chocolate bar](https:
 
 Feel free to share this content! Just remember to link back to the source and credit us for the curation.
 
-> **Note:** Pay close attention to the scholarship you want to pursue and the current political situation in Japan. Recently, several university-funded programs have started to reduce the number of students, reduce their stay, or shut down completely. For the time being, it's safe to assume that the Monbunkagakusho Funded Programs are not going to be affected.
+{: .note }
+Pay close attention to the scholarship you want to pursue and the current political situation in Japan. Recently, several university-funded programs have started to reduce the number of students, reduce their stay, or shut down completely. For the time being, it's safe to assume that the Monbunkagakusho Funded Programs are not going to be affected.
 
 # 1. What is MEXT?
 
@@ -74,9 +75,10 @@ However, most of them follow a certain pattern:
 
 # 5. Language Requirements
 
-> TL;DR: For humanities-related fields: JLPT N2+; For natural sciences: N5 is not required, but advised.
+{: .warning }
+Once again, not all consulates or embassies work the same. If you have any questions, send them an email.
 
-> Note: once again, not all consulates or embassies work the same. If you have any questions, send them an email.
+> TL;DR: For humanities-related fields: JLPT N2+; For natural sciences: N5 is not required, but advised.
 
 In general, it's expected that the applicant has a basic understanding of the Japanese language, that is, N5 level (or even being able to read kana) is a minimum.
 
