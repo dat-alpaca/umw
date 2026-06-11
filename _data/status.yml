@@ -121,5 +121,6 @@ countries:
     url: https://www.my.emb-japan.go.jp/itpr_en/undergraduate.html
     scholarships:
     - type: "UG"
-      status: "open"
+      status: "exams"
+      doc_results: "yes"
       doc_results: "June 12th (?)"
