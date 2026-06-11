@@ -73,17 +73,17 @@ countries:
     url: https://www.in.emb-japan.go.jp/education/japanese_government_scholarships.html
     scholarships:
     - type: "UG"
-      status: "closed"
+      status: "exams"
       doc_results: "yes"
       exam_date: "June 20th"
 
     - type: "COT"
-      status: "closed"
+      status: "exams"
       exam_date: "July 12th"
       inteview_date: "July 15th"
 
     - type: "STC"
-      status: "closed"
+      status: "exams"
       exam_date: "July 12th"
       inteview_date: "July 15th"
 
