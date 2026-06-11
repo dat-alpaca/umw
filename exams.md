@@ -1,22 +1,30 @@
 ---
 layout: default
-title: Statistics
+title: Exams
 nav order: 5
 ---
 
 # Table of Contents
-1. [Undergraduate: Mathematics A](#undergraduate-mathematics-a)
-1. [Undergraduate: Mathematics B](#undergraduate-mathematics-b)
-2. [Undergraduate: Physics](#undergraduate-physics)
+1. [MEXT Past Exams](#mext-past-exams)
+2. [Undergraduate: Mathematics A](#undergraduate-mathematics-a)
+3. [Undergraduate: Mathematics B](#undergraduate-mathematics-b)
+4. [Undergraduate: Physics](#undergraduate-physics)
 
 
-# MEXT Past Exams | Statistics
+# MEXT Past Exams
+The [Study in Japan](https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/examination.html) website releases the official scholarship past exam papers. However, they only have a handful of them.
 
-This page serves as a quick reference for the breakdown of topics by subject in the exams. Given their nature, mathematics and physics are the most prominent.
+Using the data available publicly that they have published in the past, and questions memorized from people who have done the exam in previous years, we have compiled a comprehensive list of exams from `2006` to `2026`. Do keep in mind that, due to the nature of the data gathering method (memorizing questions), the recent exams are incomplete and may have mistakes.
 
-> This section is under development and may change in the future.
+You can find these exams, along additional information [here](https://drive.google.com/drive/folders/1ShzxNw-9eM9AdmDJYKly0FiZgKnj5BXJ?usp=sharing).
 
-# Undergraduate: Mathematics A
+# Exam Statistics
+This section of the page serves as a quick reference for the breakdown of topics by subject in the exams. Given their nature, mathematics and physics are the most prominent.
+
+{: .note }
+> This section is under development and is subject to change.
+
+## Undergraduate: Mathematics A
 Data taken from exams between 2018 and 2020.
 
 | Subject | Frequency |
@@ -42,7 +50,7 @@ Data taken from exams between 2018 and 2020.
 | Vectors C  | 1.96 % |
 | Analytical Geometry C  | 1.96 % |
 
-# Undergraduate: Mathematics B
+## Undergraduate: Mathematics B
 This data was collected from 2019 to 2026.
 
 | Subject | Frequency |
@@ -67,7 +75,7 @@ This data was collected from 2019 to 2026.
 | Functions III | 1.56% |
 | Limits III | 1.56% |
 
-# Undergraduate: Physics
+## Undergraduate: Physics
 This data was collected from 2019 to 2026.
 
 | Subject | Frequency |
