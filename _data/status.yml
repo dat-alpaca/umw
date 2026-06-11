@@ -123,4 +123,20 @@ countries:
     - type: "UG"
       status: "exams"
       doc_results: "yes"
-      doc_results: "June 12th (?)"
+      exam_date: "June 12th (?)"
+
+  morocco:
+    url: https://www.ma.emb-japan.go.jp/itpr_fr/11_000001_00684.html
+    scholarships:
+    - type: "UG"
+    status: "closed"
+    doc_results: "yes"
+    exam_date: "June 13th"
+  
+  tanzania:
+    url: https://www.tz.emb-japan.go.jp/itpr_en/MEXT2027_00001.html
+    scholarships:
+    - type: "UG"
+    status: "closed"
+    doc_results: "yes"
+    exam_date: "June 3rd (?)"
