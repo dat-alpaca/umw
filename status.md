@@ -186,23 +186,49 @@ The global selector contains the general information across every country. If yo
                     </span>
                 </div>
             `;
+            
+            /* Note List */
+            const ul = document.createElement('ul');
+            ul.classList.add('scholarship-notes');
 
+            /* Documentation: */
+            const documentationResultsOut = (item.doc_results) ? true : false; 
+            if (documentationResultsOut) {
+                const li = document.createElement('li');
+                li.textContent = `{{ site.data.constants.doc_result_text }}`;
+                ul.appendChild(li);
+            }
+
+            /* Exam dates: */
+            const examDate = (item.exam_date) ? item.exam_date : null;
+            if (examDate) {
+                const li = document.createElement('li');
+                li.textContent = `{{ site.data.constants.exam_date_text }}: ${examDate}`;
+                ul.appendChild(li);
+            }
+
+            /* Interview date: */
+            const interviewDate = (item.inteview_date) ? item.inteview_date : null;
+            if (interviewDate) {
+                const li = document.createElement('li');
+                li.textContent = `{{ site.data.constants.interview_date_text }}: ${interviewDate}`;
+                ul.appendChild(li);
+            }
+
+            /* Notes: */
             const notes = (item.notes && Array.isArray(item.notes)) ? item.notes
                     : (meta.notes && Array.isArray(meta.notes)) ? meta.notes : null;
 
             if (notes?.length) {
-                const ul = document.createElement('ul');
-                ul.classList.add('scholarship-notes');
-
                 notes.forEach(note => {
                     const li = document.createElement('li');
                     li.textContent = note;
                     ul.appendChild(li);
                 });
 
-                card.appendChild(ul);
             }
 
+            card.appendChild(ul);
             container.appendChild(card);
         });
     }

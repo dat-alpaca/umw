@@ -6,3 +6,8 @@ closed_color: "text-red-200"
 
 exams_text: "Exams ongoing"
 exams_color: "text-yellow-100"
+
+# Documentation:
+doc_result_text: "Documentation results announced"
+exam_date_text: "Exam date"
+interview_date_text: "Interview date"

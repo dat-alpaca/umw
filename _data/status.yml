@@ -50,9 +50,10 @@ countries:
     scholarships:
     - type: "UG"
       status: "open"
+      doc_results: "yes"
+      exam_date: "July 15th"
+      inteview_date: "July 27th"
       notes:
-      - "Documentation results announced"
-      - "Exam dates announced: July 15th"
       - |
         Exam order:
             1. Japanese (9h15-10h55)
@@ -60,64 +61,58 @@ countries:
             3. Mathematics (12h05 - 13h05)
             4. Chemistry (14h - 15h)
             5. Physics/Biology (15h05 - 16h05)
-      - "Interview date announced: July 27th"
 
   sweden:
     url: https://www.se.emb-japan.go.jp/itpr_sv/monbukagakusho_researchstudent.html
     scholarships:
     - type: "UG"
       status: "open"
-      notes:
-      - "Exam dates announced: June 25th"
+      exam_date: "June 25th"
 
   india:
     url: https://www.in.emb-japan.go.jp/education/japanese_government_scholarships.html
     scholarships:
     - type: "UG"
       status: "open"
-      notes:
-        - "Documentation results announced."
-        - "Exam dates announced: June 20th"
+      doc_results: "yes"
+      exam_date: "June 20th"
+
     - type: "COT"
       status: "open"
-      notes:
-        - "Exam dates announced: July 12th"
-        - "Interview dates announced: July 15th"
+      exam_date: "July 12th"
+      inteview_date: "July 15th"
+
     - type: "STC"
       status: "open"
-      notes:
-        - "Exam dates announced: July 12th"
-        - "Interview dates announced: July 15th"
+      exam_date: "July 12th"
+      inteview_date: "July 15th"
 
   romania:
     url: https://www.ro.emb-japan.go.jp/itpr_ro/11_000001_01576.html
     scholarships:
     - type: "UG"
       status: "open"
-      notes:
-        - "Exam dates announced: June 27th"
-        - "Interview dates announced: July 17th"
+      exam_date: "June 27th"
+      inteview_date: "July 17th"
 
   sri lanka:
     url: https://www.lk.emb-japan.go.jp/eg/contents/Scholarship/SchlarshipNewE.html
     scholarships:
     - type: "UG"
       status: "open"
-      notes:
-        - "Exam dates announced: June 20th (Not confirmed)"
+      exam_date: "June 20th (not confirmed)"
 
   germany:
     url: https://www.de.emb-japan.go.jp/itpr_de/austausch_index.html
     scholarships:
     - type: "PG"
       status: "exams"
-      notes:
-        - "Interviews conducted: June 8th"
+      doc_results: "yes"
+      inteview_date: "June 8th"
 
   france:
     url: https://www.fr.emb-japan.go.jp/itpr_fr/bourse-etudes-recherche.html
     scholarships:
     - type: "PG"
       status: "exams"
-      notes:
-        - "Documentation results announced: Date unknown"
+      doc_results: "yes"
