@@ -5,6 +5,7 @@ nav order: 5
 ---
 
 # Table of Contents
+1. [Undergraduate: Mathematics A](#undergraduate-mathematics-a)
 1. [Undergraduate: Mathematics B](#undergraduate-mathematics-b)
 2. [Undergraduate: Physics](#undergraduate-physics)
 
@@ -14,31 +15,6 @@ nav order: 5
 This page serves as a quick reference for the breakdown of topics by subject in the exams. Given their nature, mathematics and physics are the most prominent.
 
 > This section is under development and may change in the future.
-
-# Undergraduate: Mathematics B
-This data was collected from 2019 to 2026.
-
-| Subject | Frequency |
-| :---: | :---: |
-| Exponentials II | 12.50% |
-| Differential Calculus III | 10.94% |
-| Geometry II | 9.38% |
-| Trigonometry I | 7.81% |
-| Integral Calculus III | 7.81% |
-| Sequences B | 6.25% |
-| Trigonometry II | 6.25% |
-| Integers A | 4.69% |
-| Geometry A | 4.69% |
-| Vectors C | 4.69% |
-| Numbers and Expressions I | 4.69% |
-| Quadratic Equations I | 4.69% |
-| Various II (Polynomials II) | 4.69% |
-| Probability A | 3.12% |
-| Probability B (Statistics) | 1.56% |
-| Analytical Geometry C (Equations and Curves) | 1.56% |
-| Sets and Propositions i | 1.56% |
-| Functions III | 1.56% |
-| Limits III | 1.56% |
 
 # Undergraduate: Mathematics A
 Data taken from exams between 2018 and 2020.
@@ -66,7 +42,32 @@ Data taken from exams between 2018 and 2020.
 | Vectors C  | 1.96 % |
 | Analytical Geometry C  | 1.96 % |
 
-# Undergraduate | Physics
+# Undergraduate: Mathematics B
+This data was collected from 2019 to 2026.
+
+| Subject | Frequency |
+| :---: | :---: |
+| Exponentials II | 12.50% |
+| Differential Calculus III | 10.94% |
+| Geometry II | 9.38% |
+| Trigonometry I | 7.81% |
+| Integral Calculus III | 7.81% |
+| Sequences B | 6.25% |
+| Trigonometry II | 6.25% |
+| Integers A | 4.69% |
+| Geometry A | 4.69% |
+| Vectors C | 4.69% |
+| Numbers and Expressions I | 4.69% |
+| Quadratic Equations I | 4.69% |
+| Various II (Polynomials II) | 4.69% |
+| Probability A | 3.12% |
+| Probability B (Statistics) | 1.56% |
+| Analytical Geometry C (Equations and Curves) | 1.56% |
+| Sets and Propositions i | 1.56% |
+| Functions III | 1.56% |
+| Limits III | 1.56% |
+
+# Undergraduate: Physics
 This data was collected from 2019 to 2026.
 
 | Subject | Frequency |
