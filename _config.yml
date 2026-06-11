@@ -1,5 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 title: "UMW Project"
+baseurl: "/umw"
 
 discord_invite: "https://discord.gg/kzND3sX3zq"
 
