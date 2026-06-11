@@ -116,3 +116,10 @@ countries:
     - type: "PG"
       status: "exams"
       doc_results: "yes"
+
+  malasya:
+    url: https://www.my.emb-japan.go.jp/itpr_en/undergraduate.html
+    scholarships:
+    - type: "UG"
+      status: "open"
+      doc_results: "July 12th"
