@@ -118,7 +118,7 @@ countries:
       doc_results: "yes"
     
   morocco:
-    url: https://www.fr.emb-japan.go.jp/itpr_fr/bourse-etudes-recherche.html
+    url: https://www.ma.emb-japan.go.jp/itpr_fr/11_000001_00684.html
     scholarships:
     - type: "UG"
     status: "exams"
@@ -126,9 +126,25 @@ countries:
     exam_date: "June 13th"
 
   united_states:
-    url: https://www.fr.emb-japan.go.jp/itpr_fr/bourse-etudes-recherche.html
+    url: https://www.us.emb-japan.go.jp/itpr_en/mext-scholarship.html
     scholarships:
     - type: "UG"
     status: "exams"
     doc_results: "yes"
     exam_date: "June 24th (NY)"
+
+  malasya:
+    url: https://www.my.emb-japan.go.jp/itpr_en/undergraduate.html
+    scholarships:
+    - type: "UG"
+      status: "exams"
+      doc_results: "yes"
+      exam_date: "June 12th (?)"
+
+  tanzania:
+    url: https://www.tz.emb-japan.go.jp/itpr_en/MEXT2027_00001.html
+    scholarships:
+    - type: "UG"
+    status: "closed"
+    doc_results: "yes"
+    exam_date: "June 3rd (?)"
