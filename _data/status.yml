@@ -116,3 +116,19 @@ countries:
     - type: "PG"
       status: "exams"
       doc_results: "yes"
+    
+  morocco:
+    url: https://www.fr.emb-japan.go.jp/itpr_fr/bourse-etudes-recherche.html
+    scholarships:
+    - type: "UG"
+    status: "exams"
+    doc_results: "yes"
+    exam_date: "June 13th"
+
+  united_states:
+    url: https://www.fr.emb-japan.go.jp/itpr_fr/bourse-etudes-recherche.html
+    scholarships:
+    - type: "UG"
+    status: "exams"
+    doc_results: "yes"
+    exam_date: "June 24th (NY)"
