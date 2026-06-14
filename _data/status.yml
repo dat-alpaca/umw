@@ -79,13 +79,21 @@ countries:
 
     - type: "COT"
       status: "exams"
+      doc_results: "yes"
       exam_date: "July 12th"
       inteview_date: "July 15th"
 
     - type: "STC"
       status: "exams"
+      doc_results: "yes"
       exam_date: "July 12th"
       inteview_date: "July 15th"
+
+    - type: "PG"
+      status: "exams"
+      doc_results: "yes"
+      exam_date: "July 5th"
+      inteview_date: "July 16th - July 19th"
 
   romania:
     url: https://www.ro.emb-japan.go.jp/itpr_ro/11_000001_01576.html
