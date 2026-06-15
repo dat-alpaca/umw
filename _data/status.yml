@@ -124,6 +124,16 @@ countries:
     - type: "PG"
       status: "exams"
       doc_results: "yes"
+
+  nepal:
+    url: https://www.fr.emb-japan.go.jp/itpr_fr/bourse-etudes-recherche.html
+    scholarships:
+    - type: "PG"
+      status: "closed"
+      doc_results: "yes"
+      exam_date: "June 18th"
+      notes:
+        - "First screening announced in June 13th"
     
   morocco:
     url: https://www.ma.emb-japan.go.jp/itpr_fr/11_000001_00684.html
@@ -139,7 +149,7 @@ countries:
     - type: "UG"
     status: "exams"
     doc_results: "yes"
-    exam_date: "June 24th (NY)"
+    exam_date: "June 24th (NY, LA)"
 
   malasya:
     url: https://www.my.emb-japan.go.jp/itpr_en/undergraduate.html
