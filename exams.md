@@ -89,3 +89,22 @@ This data was collected from 2019 to 2026.
 | Gravitation | 5.15% |
 | Wave | 4.12% |
 | Magnetism | 1.03% |
+
+## Special Training: Mathematics
+This data was collected from 2020 to 2024.
+
+| Subject | Frequency |
+| :---: | :---: |
+| Probability A | 10.81% |
+| Sequences B | 10.81% |
+| Numbers and Expressions I | 10.81% |
+| Trigonometry I | 10.81% |
+| Differential Calculus III | 10.81% |
+| Integers A | 8.11% |
+| Vectors C | 8.11% |
+| Quadratic Equations I | 8.11% |
+| Exponentials II | 8.11% |
+| Integral Calculus III | 5.41% |
+| Geometry A | 2.70% |
+| Various II (Polynomials I) |  2.70% |
+| Trigonometry II | 2.70% |
