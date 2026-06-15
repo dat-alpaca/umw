@@ -9,6 +9,7 @@ nav order: 5
 2. [Undergraduate: Mathematics A](#undergraduate-mathematics-a)
 3. [Undergraduate: Mathematics B](#undergraduate-mathematics-b)
 4. [Undergraduate: Physics](#undergraduate-physics)
+4. [Special Training: Mathematics](#special-training-mathematics)
 
 
 # MEXT Past Exams
