@@ -29,6 +29,15 @@ countries:
     - type: "JS"
       status: "closed"
   
+  argentina:
+    url: https://www.ar.emb-japan.go.jp/itpr_es/Becas.html
+    scholarships:
+    - type: "COT"
+      status: "closed"
+      doc_results: "yes"
+      exam_date: "July 2nd"
+      inteview_date: "July 2nd"
+
   brasil:
     url: https://www.br.emb-japan.go.jp/itpr_pt/bolsas_programas.html
     scholarships:
