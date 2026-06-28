@@ -9,6 +9,7 @@ parent: Exams
 1. [College of Technology: Mathematics](#college-of-technology-mathematics)
 2. [College of Technology: Physics](#college-of-technology-physics)
 3. [College of Technology: English](#college-of-technology-english)
+4. [College of Technology: Japanese](#college-of-technology-japanese)
 
 # Exam Statistics
 This section of the page serves as a quick reference for the breakdown of topics by subject in the exams. Given their nature, mathematics and physics are the most prominent.
