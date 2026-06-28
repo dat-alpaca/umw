@@ -10,6 +10,10 @@ nav order: 5
 3. [Undergraduate: Mathematics B](#undergraduate-mathematics-b)
 4. [Undergraduate: Physics](#undergraduate-physics)
 4. [Special Training: Mathematics](#special-training-mathematics)
+4. [Special Training: Japanese](#special-training-japanese)
+4. [College of Technology: Mathematics](#college-of-technology-mathematics)
+4. [College of Technology: Physics](#college-of-technology-physics)
+4. [College of Technology: English](#college-of-technology-english)
 
 
 # MEXT Past Exams
@@ -52,6 +56,8 @@ Data taken from exams between 2018 and 2020.
 | Analytical Geometry C  | 1.96 % |
 
 ## Undergraduate: Mathematics B
+The exam is now longer overall. As always, it was divided into three sections. However, each of the questions had 5-6 items each, as opposed to the 6-3-3 subitems per question pattern present in previous exams.
+
 This data was collected from 2019 to 2026.
 
 | Subject | Frequency |
@@ -77,6 +83,8 @@ This data was collected from 2019 to 2026.
 | Limits III | 1.56% |
 
 ## Undergraduate: Physics
+The physics exam was harder than previous years. It now includes computations with numbers, as opposed to the purely algebraic solutions that the exams used to ask.
+
 This data was collected from 2019 to 2026.
 
 | Subject | Frequency |
@@ -109,3 +117,22 @@ This data was collected from 2020 to 2024.
 | Geometry A | 2.70% |
 | Various II (Polynomials I) |  2.70% |
 | Trigonometry II | 2.70% |
+
+## Special Training: Japanese
+The exam was slightly different from previous years.
+The maximum score is 100, and there's less questions on the sheets now. 
+
+## College of Technology: Mathematics
+This year's exam was apparently quite hard. Compared to previous years, the layout is also completely different.
+- Q2: no longer a matrix question, but a mix of geomtry and vectors.
+- Q3: stayed the same, easy calculus questions.
+
+**General recommendation**: practice 2020 Q3.3, those were the hardest styles of questions in the paper.
+
+## College of Technology: Physics
+There was a hard question involving electric fields.
+The structure changed. Instead of 6-7 questions, there were 10 questions. Apparently, they were easy.
+
+## College of Technology: English
+There is a new type of question, simila r to Undergraduate English Q3, the big paragraph one.
+
