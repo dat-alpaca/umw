@@ -2,13 +2,13 @@ countries:
   global:
     scholarships:
     - type: "UG"
-      status: "open"
+      status: "closed"
       notes:
         - "Documentation results announced in some countries"
         - "Exam dates announced in some countries"
         - "Interview dates announced in some countries"
     - type: "STC"
-      status: "open"
+      status: "closed"
       notes:
         - "Documentation results announced in some countries"
         - "Exam dates announced in some countries"
@@ -18,7 +18,7 @@ countries:
         - "Documentation results announced in some countries"
         - "Exam dates announced in some countries"
         - "Interview dates announced in some countries"
-      status: "open"
+      status: "closed"
     - type: "PG"
       status: "exams"
       notes:
@@ -42,13 +42,13 @@ countries:
     url: https://www.br.emb-japan.go.jp/itpr_pt/bolsas_programas.html
     scholarships:
     - type: "UG"
-      status: "open"
+      status: "closed"
     - type: "STC"
-      status: "open"
+      status: "closed"
     - type: "COT"
-      status: "open"
+      status: "closed"
     - type: "PG"
-      status: "exams"
+      status: "closed"
     - type: "SPT"
       status: "closed"
     - type: "JS"
@@ -58,7 +58,7 @@ countries:
     url: https://www.it.emb-japan.go.jp/itprtop_it/index.html
     scholarships:
     - type: "UG"
-      status: "open"
+      status: "closed"
       doc_results: "yes"
       exam_date: "July 15th"
       inteview_date: "July 27th"
@@ -75,7 +75,7 @@ countries:
     url: https://www.se.emb-japan.go.jp/itpr_sv/monbukagakusho_researchstudent.html
     scholarships:
     - type: "UG"
-      status: "open"
+      status: "closed"
       exam_date: "June 25th"
 
   india:
@@ -114,7 +114,7 @@ countries:
     url: https://www.ro.emb-japan.go.jp/itpr_ro/11_000001_01576.html
     scholarships:
     - type: "UG"
-      status: "open"
+      status: "closed"
       exam_date: "June 27th"
       inteview_date: "July 17th"
 
@@ -122,7 +122,7 @@ countries:
     url: https://www.lk.emb-japan.go.jp/eg/contents/Scholarship/SchlarshipNewE.html
     scholarships:
     - type: "UG"
-      status: "open"
+      status: "closed"
       exam_date: "June 20th (not confirmed)"
 
   germany:
