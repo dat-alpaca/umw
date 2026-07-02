@@ -85,12 +85,16 @@ countries:
       status: "exams"
       doc_results: "yes"
       exam_date: "June 20th"
+      notes:
+        - "First screening announcements: End of July"
 
     - type: "COT"
       status: "exams"
       doc_results: "yes"
       exam_date: "July 12th"
       inteview_date: "July 15th"
+      notes:
+        - "First screening announcements: End of July"
 
     - type: "STC"
       status: "exams"
