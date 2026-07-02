@@ -97,6 +97,8 @@ countries:
       doc_results: "yes"
       exam_date: "July 12th"
       inteview_date: "July 15th"
+      notes:
+        - "First screening announcements: End of July"
 
     - type: "PG"
       status: "exams"
