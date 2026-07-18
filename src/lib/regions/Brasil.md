@@ -50,7 +50,12 @@ They pay close attention to each candidate, respond very well, and are communica
 Interview results are provided within a maximum of one month after the interview date.
 Also, written exam results are sent via email the day after the exam.
 
+### Belém (2026/2027)
 As for the 2026/2027 process, `6x STC` and `6x UG` students applied for the scholarship.
+
+| Scholarship | Exams Date | Interview Date |
+| :---: | :---: | :---: |
+| Undergraduate (UG) | July 7th | July 13th |
 
 <!-- ----------- Recife -----------  -->
 ## Recife
