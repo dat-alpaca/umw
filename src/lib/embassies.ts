@@ -1,0 +1,25 @@
+export const embassies = {
+    embassy_list: "https://www.mofa.go.jp/about/emb_cons/mofaserv.html",
+
+    brasilia: "https://www.br.emb-japan.go.jp/itpr_pt/bolsas_programas.html",
+    manaus: "https://www.manaus.br.emb-japan.go.jp/itpr_ja/b_000125.html",
+    belem: "https://www.belem.br.emb-japan.go.jp/itpr_pt/bolsas_de_estudo.html",
+    recife: "https://www.recife.br.emb-japan.go.jp/itpr_pt/bolsas_de_estudo.html",
+    sao_paulo: "https://www.sp.br.emb-japan.go.jp/itpr_pt/bolsa1.html",
+    porto_alegre: "https://www.curitiba.br.emb-japan.go.jp/itpr_pt/00_000035.html",
+    rio_de_janeiro: "https://www.rio.br.emb-japan.go.jp/itpr_pt/graduacao.html",
+
+    argentina: "https://www.ar.emb-japan.go.jp/itpr_es/Becas.html",
+    italy: "https://www.it.emb-japan.go.jp/itprtop_it/index.html",
+    sweden: "https://www.se.emb-japan.go.jp/itpr_sv/monbukagakusho_researchstudent.html",
+    india: "https://www.in.emb-japan.go.jp/education/japanese_government_scholarships.html",
+    romania: "https://www.ro.emb-japan.go.jp/itpr_ro/11_000001_01576.html",
+    sri_lanka: "https://www.lk.emb-japan.go.jp/eg/contents/Scholarship/SchlarshipNewE.html",
+    france: "https://www.fr.emb-japan.go.jp/itpr_fr/bourse-etudes-recherche.html",
+    germany: "https://www.de.emb-japan.go.jp/itpr_de/austausch_index.html",
+    morocco: "https://www.ma.emb-japan.go.jp/itpr_fr/11_000001_00684.html",
+    usa: "https://www.us.emb-japan.go.jp/itpr_en/mext-scholarship.html",
+    malasya: "https://www.my.emb-japan.go.jp/itpr_en/undergraduate.html",
+    tanzania: "https://www.tz.emb-japan.go.jp/itpr_en/MEXT2027_00001.html",
+    nepal: "https://www.np.emb-japan.go.jp/itpr_ja/11_000001_00723.html",
+}

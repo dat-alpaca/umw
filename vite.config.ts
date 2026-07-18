@@ -1,0 +1,25 @@
+import { mdsvex } from 'mdsvex';
+import adapter from '@sveltejs/adapter-static';
+import { sveltekit } from '@sveltejs/kit/vite';
+import { defineConfig } from 'vite';
+import rehypeSlug from 'rehype-slug';
+
+export default defineConfig({
+	plugins: [
+		sveltekit({
+			compilerOptions: {
+				runes: ({ filename }) =>
+					filename.split(/[/\\]/).includes('node_modules') ? undefined : true
+			},
+			adapter: adapter(),
+			preprocess: [
+				mdsvex({ 
+					extensions: ['.svx', '.md'],
+					rehypePlugins: [rehypeSlug]
+				})
+			],
+			extensions: ['.svelte', '.svx', '.md'],
+			paths: { base: '/umw' }
+		})
+	]
+});

@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    line-height: 1.15;
+    text-size-adjust: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: system-ui,-apple-system,blinkmacsystemfont,"Segoe UI",roboto,"Helvetica Neue",arial,sans-serif,"Segoe UI Emoji";
+    font-size: inherit;
+    line-height: 1.4;
+    color: #5c5962;
+    background-color: var(--color-background);
+    overflow-wrap: break-word;
+
+    margin: 0;
+}
+
+hr {
+    margin: 2rem 0;
+    background-color: var(--color-gray-0);
+    border: 0;
+    height: 1px;
+}
+
+a {
+    color: var(--color-link);
+    text-decoration: underline;
+    text-decoration-color: var(--color-gray-0);
+}
+
+ol > li {
+    margin: 0.25em 0;
+}
+
+table {
+    min-width: 50%;
+    overflow-x: auto;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.12),0 3px 10px rgba(0,0,0,0.08);
+}
+
+thead th {
+    border-bottom: 1px solid var(--color-gray-0);
+}
+
+th, td {
+    min-width: 7rem;
+    padding: 0.5rem .75rem;
+}
+
+/* Custom Tags */
+.no-deco {
+    text-decoration: none !important;
+}
+
+.no-deco:hover {
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.reset {
+    background: none;
+    border: none;
+    margin: 0;
+    text-align: inherit;
+    font: inherit;
+    border-radius: 0;
+    appearance: none;
+}
+
+/* Responsive */
+.desktop-only {
+    display: block;
+}
+
+.mobile-only {
+    display: none !important;
+}
+
+@media (max-width: 768px) {
+    .desktop-only {
+        display: none !important;
+    }
+  
+    .mobile-only {
+        display: block !important;
+    }
+}
