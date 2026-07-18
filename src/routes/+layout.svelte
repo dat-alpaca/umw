@@ -12,6 +12,8 @@
 	let isMobile = $state(false);
 
 	let { children } = $props();
+
+	export const prerender = true;
 </script>
 
 <svelte:head>
