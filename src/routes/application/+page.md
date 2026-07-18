@@ -26,7 +26,7 @@ For more details, see the [PG Guide](./application/4_pg).
 # [School Professor Training](./application/5_spt)
 No direct sources provided. Check your embassy or consulate website for more information. If you want to contribute, please send a draft containing the steps necessary to apply for this scholarship. Try to follow the pattern above.
 
-For more details, see the [SPT Guide](/application/5_spt).
+For more details, see the [SPT Guide](./application/5_spt).
 
 # [Culture and Japanese Language](./application/6_cjl)
 No direct sources provided. Check your embassy or consulate website for more information. If you want to contribute, please send a draft containing the steps necessary to apply for this scholarship. Try to follow the pattern above.
