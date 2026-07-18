@@ -1,4 +1,5 @@
 <script>
+    import { base } from '$app/paths';
 	import { siteConfig } from "$lib/config";
 	import DiscordIcon from "../DiscordIcon.svelte";
     import Bars from "$lib/assets/Bars.svelte";
@@ -13,7 +14,7 @@
 
 <div class="header-mobile mobile-only">
     <div class="header-title">
-        <a class="no-deco sitename" href="/">{siteConfig.site_name_short}</a>
+        <a class="no-deco sitename" href="{base}/">{siteConfig.site_name_short}</a>
     </div>
 
     <div class="header-icons">

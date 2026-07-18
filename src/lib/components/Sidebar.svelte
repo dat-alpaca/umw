@@ -1,4 +1,6 @@
 <script lang="ts">
+    import { base } from '$app/paths';
+
     import { navigation } from '$lib/navigation';
     import { siteConfig } from '$lib/config';
 
@@ -7,7 +9,7 @@
 
 <header class="sidebar desktop-only">
     <div class="sidebar-title">
-        <a class="no-deco sitename" href="/">{siteConfig.site_name}</a>
+        <a class="no-deco sitename" href="{base}/">{siteConfig.site_name}</a>
     </div>
 
     <ul class="sidebar-navigation">
