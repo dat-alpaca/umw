@@ -6,13 +6,13 @@ export interface NavItem {
 
 export const navigation: NavItem[] = [
     { "title": "Home", "url": "/" },
-    { "title": "Application", "url": "/application", "children": [
-        { "title": "Undergraduate", "url": "/application/1_ug" },
-        { "title": "Special Training", "url": "/application/2_stc" },
-        { "title": "College of Technology", "url": "/application/3_cot" },
-        { "title": "Postgraduate", "url": "/application/4_pg" },
-        { "title": "Professor Training", "url": "/application/5_spt" },
-        { "title": "Culture and Japanese", "url": "/application/6_cjl" }
+    { "title": "Scholarships", "url": "/scholarship", "children": [
+        { "title": "Undergraduate", "url": "/scholarship/1_ug" },
+        { "title": "Special Training", "url": "/scholarship/2_stc" },
+        { "title": "College of Technology", "url": "/scholarship/3_cot" },
+        { "title": "Postgraduate", "url": "/scholarship/4_pg" },
+        { "title": "Professor Training", "url": "/scholarship/5_spt" },
+        { "title": "Culture and Japanese", "url": "/scholarship/6_cjl" }
     ]},
     
     { "title": "Regions", "url": "/regions" },
