@@ -45,7 +45,7 @@
     }
 
     .sitename {
-        color: var(--color-gray-2);
+        color: var(--color-sitename);
         font-size: 1.5rem;
         line-height: 1.25;
         text-decoration: none;

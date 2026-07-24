@@ -3,6 +3,7 @@
 	import magnifyingGlass from '$lib/assets/magnifying-glass.svg';
     import DiscordIcon from "./DiscordIcon.svelte";
 	import DriveIcon from "./DriveIcon.svelte";
+	import ThemeSwitch from "./ThemeSwitch.svelte";
 </script>
 
 <div class="header desktop-only">
@@ -17,6 +18,7 @@
     <div class="header-icons">
         <DriveIcon/>
         <DiscordIcon/>
+        <ThemeSwitch/>
     </div>
 </div>
 

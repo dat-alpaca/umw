@@ -68,7 +68,7 @@ Around June, there's a test to determine placement for classes in other subjects
 <Note>
 The Mathematics class for the Natural Sciences and the Humanities tracks are in different levels.
 </Note>
-
+    
 ### Natural Sciences
 For the Natural Sciences (Mathematics/STEM) track, those additional subjects include English, Mathematics, Japanese Culture, Japanese Caligraphy (書道) and Physics.
 

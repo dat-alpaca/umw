@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { ModeWatcher } from "mode-watcher";
+
 	import serverIcon from '$lib/assets/server_icon.png';
 	import favicon from '$lib/assets/favicon.svg';
 
@@ -8,10 +10,11 @@
 	import Sidebar from '$lib/components/Sidebar.svelte';
 
 	import { siteConfig } from '$lib/config';
-	let isMobile = $state(false);
 
 	let { children } = $props();
 </script>
+
+<ModeWatcher/>
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
@@ -65,6 +68,9 @@
 		--color-link: var(--color-purple-0);
 		--color-sidebar: var(--color-gray-4);
 		--color-background: var(--color-white);
+		--color-sitename: var(--color-gray-2);
+		--color-text: var(--color-black);
+		--color-subtext: var(--color-gray-1);
 
 		--color-white: #fff;
 		--color-purple-0: #7253ed;
@@ -78,7 +84,47 @@
 		--color-gray-3: #eaebf0;
 		--color-gray-4: #f5f6fa;
 
+		--color-black: #1a1a1a;
+
 		--color-yellow-1: #e7af06;
+	}
+
+	:global(:root.dark) {
+        /* Gradients */
+		--default-gradient: linear-gradient(-90deg, #18171c 0%, rgba(24, 23, 28, 0.8) 80%, rgba(24, 23, 28, 0) 100%);
+
+		/* Colors */
+		--color-link: var(--color-purple-0);
+		--color-sidebar: var(--color-gray-5);
+		--color-background: var(--color-gray-2);
+		--color-sitename: var(--color-gray-1);
+		--color-text: var(--color-gray-4);
+		--color-subtext: var(--color-gray-6);
+
+		--color-white: #121115;
+		--color-purple-0: #7253ed;
+
+		--color-blue-1: #5b7eef;
+		--color-blue-2: #729aff;
+
+		--color-gray-0: #212026;
+		--color-gray-1: #a19da8;
+		--color-gray-2: #27262b;
+		--color-gray-3: rgb(23, 23, 25);
+		--color-gray-4: #dadce4;
+		--color-gray-5: #1a191c;
+		--color-gray-6: #b9b7bb;
+
+		--color-yellow-1: #f0bd26;
+    }
+
+	:global(main p),
+    :global(main h1) {
+        color: var(--color-text);
+    }
+
+	:global(body) {
+		color: var(--color-subtext);
 	}
 
 	.main-container {

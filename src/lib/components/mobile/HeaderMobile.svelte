@@ -5,6 +5,7 @@
     import Bars from "$lib/assets/Bars.svelte";
 	import HamburgerMenu from "./HamburgerMenu.svelte";
 	import DriveIcon from '../DriveIcon.svelte';
+	import ThemeSwitch from '../ThemeSwitch.svelte';
 
     let burgerOn = $state();
 
@@ -21,6 +22,7 @@
     <div class="header-icons">
         <DiscordIcon iconColor="var(--color-purple-0)"/>
         <DriveIcon iconColor="var(--color-purple-0)"/>
+        <ThemeSwitch iconColor="var(--color-purple-0)"/>
 
         <button class="burgi-btn reset" onclick={toggleBurger}>
             <Bars/>
