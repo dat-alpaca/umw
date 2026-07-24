@@ -133,6 +133,7 @@
 	@media (max-width: 768px) {
 		.main-container {
 			max-width: 100vw;
+			margin-bottom: 10rem;
 		}
 	}
 
