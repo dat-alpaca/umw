@@ -2,6 +2,7 @@
 	import { siteConfig } from "$lib/config";
 	import magnifyingGlass from '$lib/assets/magnifying-glass.svg';
     import DiscordIcon from "./DiscordIcon.svelte";
+	import DriveIcon from "./DriveIcon.svelte";
 </script>
 
 <div class="header desktop-only">
@@ -13,7 +14,10 @@
         </svg>
     </label>
 
-    <DiscordIcon/>
+    <div class="header-icons">
+        <DriveIcon/>
+        <DiscordIcon/>
+    </div>
 </div>
 
 <style>
@@ -29,6 +33,11 @@
         align-items: center;
 
         border-bottom: 1px solid var(--color-gray-0);
+    }
+
+    .header-icons {
+        display: flex;
+        flex-direction: row;
     }
 
     #search-input {

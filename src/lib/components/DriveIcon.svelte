@@ -1,16 +1,16 @@
 <script lang="ts">
     import { siteConfig } from '$lib/config';
-    import Discord from '$lib/assets/Discord.svelte'
+    import Drive from '$lib/assets/Drive.svelte'
 
     let { iconColor='--color-gray-1' } = $props();
 </script>
 
-<a href="{siteConfig.discord_invite}" target="_blank" rel="noopener noreferrer" class="header-discord-link" title="Join our Discord" style:color={iconColor}>
-    <Discord/>
+<a href="{siteConfig.drive_link}" target="_blank" rel="noopener noreferrer" class="header-drive-link" title="Check our Past Exams" style:color={iconColor}>
+    <Drive/>
 </a>
 
 <style>
-    .header-discord-link {
+    .header-drive-link {
         display: flex;
         align-items: center;
         margin-right: 12px;
@@ -21,7 +21,7 @@
         transition: transform 0.1s ease-in-out;
     }
     
-    .header-discord-link:hover { 
+    .header-drive-link:hover { 
         transform: scale(1.15); 
     }
 </style>

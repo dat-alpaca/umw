@@ -4,6 +4,7 @@
 	import DiscordIcon from "../DiscordIcon.svelte";
     import Bars from "$lib/assets/Bars.svelte";
 	import HamburgerMenu from "./HamburgerMenu.svelte";
+	import DriveIcon from '../DriveIcon.svelte';
 
     let burgerOn = $state();
 
@@ -13,12 +14,13 @@
 </script>
 
 <div class="header-mobile mobile-only">
-    <div class="header-title">
+    <div>
         <a class="no-deco sitename" href="{base}/">{siteConfig.site_name_short}</a>
     </div>
 
     <div class="header-icons">
-        <DiscordIcon/>
+        <DiscordIcon iconColor="var(--color-purple-0)"/>
+        <DriveIcon iconColor="var(--color-purple-0)"/>
 
         <button class="burgi-btn reset" onclick={toggleBurger}>
             <Bars/>

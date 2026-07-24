@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
-<!--
-!Font Awesome Free 7.3.1 by @fontawesome - 
-https://fontawesome.com License - 
-https://fontawesome.com/license/free 
+<!-- Font Awesome Free 7.3.1 
+by @fontawesome - https://fontawesome.com 
+License - https://fontawesome.com/license/free 
 Copyright 2026 Fonticons, Inc.-->
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
 
 <path 
     fill="currentColor"

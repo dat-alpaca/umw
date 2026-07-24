@@ -6,7 +6,6 @@
 	import HeaderMobile from '$lib/components/mobile/HeaderMobile.svelte';
 
 	import Sidebar from '$lib/components/Sidebar.svelte';
-	import SidebarMobile from '$lib/components/mobile/SidebarMobile.svelte';
 
 	import { siteConfig } from '$lib/config';
 	let isMobile = $state(false);
@@ -43,7 +42,6 @@
 
 <div class="main-container">
 	<Sidebar />
-	<SidebarMobile />
 
 	<Header/>
 	<HeaderMobile/>
