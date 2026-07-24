@@ -70,7 +70,8 @@ The Mathematics class for the Natural Sciences and the Humanities tracks are in 
 </Note>
 
 ### Natural Sciences
-For the Natural Sciences (Mathematics/STEM) track, those additional subjects include English, Mathematics, and Physics.
+For the Natural Sciences (Mathematics/STEM) track, those additional subjects include English, Mathematics, Japanese Culture, Japanese Caligraphy (書道) and Physics.
 
 ### Social Sciences
-If you're in the Social Sciences (Humanities) track, those additional subjects include English, Mathematics, and Sociology.
+For the Natural Sciences (Mathematics/STEM) track, those additional subjects include English, Mathematics, Japanese Culture, Japanese Caligraphy (書道) and Sociology.
+
