@@ -6,7 +6,7 @@
     let { iconColor='--color-gray-1' } = $props();
 </script>
  
-<button onclick={toggleMode} class="reset theme-switch-link" title="Check our Past Exams" style:color={iconColor}>
+<button onclick={toggleMode} class="reset theme-switch-link" title="Change the mode!" style:color={iconColor}>
     {#if mode.current == "light"}
         <Moon/>
     {:else if mode.current == "dark"}
@@ -21,6 +21,7 @@
         margin-right: 12px;
         padding: 0;
         cursor: pointer;
+        margin-right: 0;
 
         width: 1.9rem;
         height: 1.9rem;
