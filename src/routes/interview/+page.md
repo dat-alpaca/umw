@@ -5,6 +5,7 @@
 
 # MEXT Interview
 The interview stage is where you show your interest in the scholarship in detail. It typically lasts 10-15 minutes. 
+This section is brought to you by `@hotcyanpepper`.
 
 <Warning>
     This section covers only the questions normally asked in the UG, STC, and CoT categories.

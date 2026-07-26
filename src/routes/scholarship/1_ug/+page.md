@@ -16,7 +16,7 @@ The **Undergraduate** (UG) scholarship type is meant for applicants who pursue u
 
 2. **Examination Phase**: Depending on your major, you'll have to undergo a different set of examinations.
     - **For Humanities majors**: Japanese, English, and Mathematics A; 
-    - **For STEM majors**: Japanese, English, Mathematics B, Physics, and Chemistry (or biology); 
+    - **For STEM majors**: Japanese, English, Mathematics B, Chemistry, and Physics (or biology); 
     - **For Medicine majors**: Japanese, English, Mathematics B, Physics, and Biology.
 
 3. **Interview**: The interview stage is mostly a basic interview, with questions such as:
@@ -47,7 +47,8 @@ In short, the japanese level requirement can be closely related to the following
 * **U3:** Low N2 to N1;
 * **U4:** High N4 to low N2;
 * **U5:** Low N4 to low N3;
-* **U6-U8:** Beginner classes. From zero experience to N5~N4.
+* **U6:** Starting from N5;
+* **U7-U8:** Zero experience with Japanese.
 \* It depends on the year.
 
 U1-U3 are regarded by the administration as "Advanced classes" (上級) and use a different set of materials.
