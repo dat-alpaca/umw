@@ -16,11 +16,13 @@ export const navigation: NavItem[] = [
     ]},
     
     { "title": "Regions", "url": "/regions" },
-
+    
     { "title": "Links", "url": "/links" },
     { "title": "Exams", "url": "/exams", "children": [
         { "title": "Undergraduate", "url": "/exams/1_ug" },
         { "title": "Special Training", "url": "/exams/2_stc" },
         { "title": "College of Technology", "url": "/exams/3_cot" },
     ]},
+    
+    { "title": "Interview", "url": "/interview" },
 ];
