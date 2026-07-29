@@ -83,7 +83,8 @@ As for the 2026/2027 process, `16x UG NS-A` students applied for the scholarship
 **Visit the [MEXT Recife Website]({embassies.sao_paulo}) to read the available information first and foremost.**
 
 As for the 2026/2027 process, `55x STC`, `60x UG NS-A`, and `30x UG SS-A` students applied for the scholarship.
-There were around `20x` candidates in the interview day. Moreover, one single STC soul, and an SS soul passed the first screening.
+There were around `20x` candidates in the interview day.
+In total, 11x participants passed the first screening, of which 5x STC, 4x UG, and 2x could not be determined.
 
 The São Paulo's consulate generally **does provide the candidate's scores**. 
 
