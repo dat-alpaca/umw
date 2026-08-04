@@ -4,6 +4,7 @@
     import DiscordIcon from "./DiscordIcon.svelte";
 	import DriveIcon from "./DriveIcon.svelte";
 	import ThemeSwitch from "./ThemeSwitch.svelte";
+	import Contact from "./Contact.svelte";
 </script>
 
 <div class="header desktop-only">
@@ -16,6 +17,7 @@
     </label>
 
     <div class="header-icons">
+        <Contact/>
         <DriveIcon/>
         <DiscordIcon/>
         <ThemeSwitch/>

@@ -6,6 +6,7 @@
 	import HamburgerMenu from "./HamburgerMenu.svelte";
 	import DriveIcon from '../DriveIcon.svelte';
 	import ThemeSwitch from '../ThemeSwitch.svelte';
+	import Contact from '../Contact.svelte';
 
     let burgerOn = $state();
 
@@ -27,6 +28,8 @@
         <button class="burgi-btn reset" onclick={toggleBurger}>
             <Bars/>
         </button>
+
+        <Contact iconColor="var(--color-purple-0)"/>
     </div>
 </div>
 

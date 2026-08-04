@@ -1,6 +1,7 @@
 export const siteConfig = {
     this_site: "https://alpext.com/umw/",
-    
+    email: "alpaca.will.asm@gmail.com",
+
     drive_link: "https://drive.google.com/drive/folders/1ShzxNw-9eM9AdmDJYKly0FiZgKnj5BXJ?usp=sharing",
     discord_invite: "https://discord.gg/kzND3sX3zq",
     site_name: "UMW Project",
