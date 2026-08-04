@@ -33,7 +33,7 @@
     }
 
     .sidebar-title {
-        height: var(--sidebar-height);
+        min-height: var(--sidebar-height);
         max-height: var(--sidebar-height);
 
         padding: 0.75rem 2rem 0.75rem 2rem;
