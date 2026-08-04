@@ -20,7 +20,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<meta property="og:title" content="UMW Documentation" />
-	<meta property="og:description" content="Welcome to the UMW project!" />
+	<meta property="og:description" content="Welcome to the {siteConfig.site_name}!" />
 	<meta property="og:url" content="{siteConfig.this_site}" />
 
 	<meta property="og:type" content="website">

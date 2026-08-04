@@ -1,9 +1,11 @@
 <script lang="ts">
+	import { siteConfig } from "$lib/config";
+
     const year = new Date().getFullYear();
 
 </script>
 
-<footer class="umw-footer">Copyright © {year} UMW Project. All Rights Reserved.</footer>
+<footer class="umw-footer">Copyright © {year} {siteConfig.organization} All Rights Reserved.</footer>
 
 <style>
     .umw-footer {
