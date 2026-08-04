@@ -1,15 +1,14 @@
 <script lang="ts">
 	import { ModeWatcher } from "mode-watcher";
+	import { siteConfig } from '$lib/config';
 
 	import serverIcon from '$lib/assets/server_icon.png';
 	import favicon from '$lib/assets/favicon.svg';
 
 	import Header from '$lib/components/Header.svelte';
 	import HeaderMobile from '$lib/components/mobile/HeaderMobile.svelte';
-
 	import Sidebar from '$lib/components/Sidebar.svelte';
-
-	import { siteConfig } from '$lib/config';
+	import Footer from "$lib/components/Footer.svelte";
 
 	let { children } = $props();
 </script>
@@ -52,6 +51,8 @@
 	<main class="main-content">
 		{@render children()}
 		<hr>
+
+		<Footer/>
 	</main>
 </div>
 
