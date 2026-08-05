@@ -21,6 +21,7 @@
     </div>
 
     <div class="header-icons">
+        <Contact iconColor="var(--color-purple-0)"/>
         <DiscordIcon iconColor="var(--color-purple-0)"/>
         <DriveIcon iconColor="var(--color-purple-0)"/>
         <ThemeSwitch iconColor="var(--color-purple-0)"/>
@@ -28,8 +29,6 @@
         <button class="burgi-btn reset" onclick={toggleBurger}>
             <Bars/>
         </button>
-
-        <Contact iconColor="var(--color-purple-0)"/>
     </div>
 </div>
 
