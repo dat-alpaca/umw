@@ -31,7 +31,7 @@ Pay close attention to the scholarship you want to pursue and the current politi
 
 # 1. What is MEXT?
 
-MEXT stands for the "Ministry of Education, Culture, Sports, Science and Technology" of Japan. However, whenever you hear the acronym by itself, it more likely than not refers to the Japanese Government MEXT Scholarships.
+MEXT stands for the "Ministry of Education, Culture, Sports, Science and Technology" of Japan. However, whenever you hear the acronym by itself, it more likely than not refers to the Japanese Government MEXT Scholarships. It's called "日本政府（文部科学省）奨学金" in Japanese. 
 
 # 2. How do I apply?
 

@@ -8,6 +8,7 @@
 
 # Research
 This scholarship is for students who want to conduct research at Japanese universities, offering the applicant the opportunity to pursue a master's and/or doctoral degree, should they pass the Japanese university's entrance exam.
+This route is called "大学院" in Japanese.
 
 # Application Steps
 Courtesy of: @tachi.ttch

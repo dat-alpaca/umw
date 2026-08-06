@@ -10,6 +10,7 @@
 
 # Undergraduate
 The **Undergraduate** (UG) scholarship type is meant for applicants who pursue undergraduate studies at a Japanese university (including one year of preparatory courses and Japanese language learning). All classes are taught in **Japanese**.
+This route is called "大学（学部）" in Japanese.
 
 # Application Steps
 1. **Documentation Phase**: The first phase of the scholarship application. You send your documents and pray.

@@ -11,6 +11,7 @@
 
 # Special Training College
 The Special Training College (STC) scholarship for a vocational course in Japan lasts for 3 years. After 1 year of preparatory courses and Japanese language learning, the student will enter a vocational school for a two-year course. This scholarship aims to provide the necessary skills and knowledge for professional life. All classes are taught in Japanese.
+This route is called "専修学校" in Japanese.
 
 <Warning>
 The information in this article refers to JASSO students. STC students who go to Tokyo usually take their courses with Bunka, and differences may arise between the two. If you are a STC/Bunka student and would like to contribute, please send a message on our [Discord server]({siteConfig.discord_invite}).

@@ -7,3 +7,4 @@
 
 # School Professor Training
 No direct sources provided. Check your embassy or consulate website for more information. If you want to contribute, please send a draft containing the steps necessary to apply for this scholarship on ⁠suggestions. Try to follow the pattern above.
+This route is called "準備教育課程" in Japanese.
