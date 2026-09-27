@@ -1,12 +1,14 @@
 <script>
     import { siteConfig } from '$lib/config.js';
     import Note from '$lib/components/Note.svelte';
+    import Demographics from '$lib/components/demographics/Demographics.svelte';
 </script>
 
 # Table of Contents
 1. [Undergraduate](#undergraduate)
 2. [Application Steps](#application-steps)
 2. [Preparatory Year](#preparatory-year)
+4. [Candidate Demographics](#candidate-demographics)
 
 # Undergraduate
 The **Undergraduate** (UG) scholarship type is meant for applicants who pursue undergraduate studies at a Japanese university (including one year of preparatory courses and Japanese language learning). All classes are taught in **Japanese**.
@@ -33,9 +35,8 @@ This route is called "大学（学部）" in Japanese.
 
 # Preparatory Year
 The first year of the scholarship consists of a preparatory course. 
-> No Social Sciences data.
 
-### Natural Sciences:
+### 1. Natural Sciences:
 The subjects are mathematics, physics or biology, depending on your major, chemistry, and Japanese. The content of the lectures and exams are similar to the MEXT entrance exam.
 
 <Note>
@@ -59,3 +60,9 @@ During the first week, you take a placement examinations in mathematics and chem
 In total, there are three examinations: one in september, one in december, and the last one in February, although the February one is not counted toward the university placement.
 
 At the end of the preparatory year, students submit a ranked list of up to 23 universities they wish to apply to. Placement is determined primarily by performance in the September and December examinations, and the competition is internal - meaning you only compete against your peers in the preparatory course. Some universities may additionally require entrance exams (e.g., Kyoto University), interviews, document screening, or other selection procedures.
+
+### 2. Social Sciences:
+> No data
+
+# Candidate Demographics
+<Demographics/>
